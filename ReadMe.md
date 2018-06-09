@@ -14,6 +14,7 @@ Python Programming:
 3. Data Structures
 4. Conditional Flow
 5. Looping
-6. functions
-7. Oops
+6. Exception Handling
+7. functions
+8. Oops
 
