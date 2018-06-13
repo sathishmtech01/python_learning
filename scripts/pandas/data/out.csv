@@ -1,0 +1,505 @@
+,address,city,state,zip,price,sqft,bedrooms,bathrooms,days_on_zillow,sale_type,url
+0,V/l Buell,Newstead,NY,10001,49000.0,,,,2.0,Lot/Land For Sale,http://www.zillow.com/homes/for_sale//homedetails/V-l-Buell-Newstead-NY-10001/2089629334_zpid/
+1,263 9th Ave # PHD,New York,NY,10001,4495000.0,2250.0,3.0,2.0,1.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/263-9th-Ave-PHD-New-York-NY-10001/2103425273_zpid/
+2,315 7th Ave APT 21C,NEW YORK,NY,10001,1625000.0,1000.0,1.0,1.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/315-7th-Ave-APT-21C-New-York-NY-10001/31503968_zpid/
+3,252 7th Ave APT 4L,NEW YORK,NY,10001,1529000.0,980.0,0.0,1.0,2.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/252-7th-Ave-APT-4L-New-York-NY-10001/55501383_zpid/
+4,150 W 26th St APT 201,NEW YORK,NY,10001,1950000.0,1600.0,1.0,2.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/150-W-26th-St-APT-201-New-York-NY-10001/60147930_zpid/
+5,133 W 28th St APT 6-C,New York,NY,10001,1550000.0,1300.0,2.0,2.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/133-W-28th-St-APT-6-C-New-York-NY-10001/79496201_zpid/
+6,522 W 29th St # 4D,New York,NY,10001,3300000.0,1255.0,2.0,2.0,9.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/522-W-29th-St-4D-New-York-NY-10001/2105595161_zpid/
+7,150 W 26th St APT 802,NEW YORK,NY,10001,2495000.0,1753.0,2.0,3.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/150-W-26th-St-APT-802-New-York-NY-10001/60147949_zpid/
+8,252 7th Ave # PHI,New York,NY,10001,6495000.0,2400.0,3.0,3.0,7.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/252-7th-Ave-PHI-New-York-NY-10001/2100699091_zpid/
+9,252 7th Ave APT 5P,NEW YORK,NY,10001,4350000.0,2203.0,2.0,3.0,7.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/252-7th-Ave-APT-5P-New-York-NY-10001/55501413_zpid/
+10,252 7th Ave APT 3G,NEW YORK,NY,10001,2700000.0,1597.0,2.0,2.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/252-7th-Ave-APT-3G-New-York-NY-10001/55501352_zpid/
+11,540 W 28th St # 10A,New York,NY,10001,2495000.0,1245.0,2.0,2.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/540-W-28th-St-10A-New-York-NY-10001/2131995524_zpid/
+12,254 W 25th St APT 4D,New York,NY,10001,785000.0,,1.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/254-W-25th-St-APT-4D-New-York-NY-10001/72515599_zpid/
+13,433 W 34th St APT 16D,New York,NY,10001,410000.0,,0.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/433-W-34th-St-APT-16D-New-York-NY-10001/244819266_zpid/
+14,236 W 26th St RM 905,New York,NY,10001,8500000.0,4104.0,4.0,3.0,25.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/236-W-26th-St-RM-905-New-York-NY-10001/2090035447_zpid/
+15,520 W 28th St # 10,New York,NY,10001,13500000.0,4220.0,5.0,5.0,30.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/520-W-28th-St-10-New-York-NY-10001/2094266586_zpid/
+16,520 W 28th St # 13,New York,NY,10001,5095000.0,1691.0,2.0,3.0,24.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/520-W-28th-St-13-New-York-NY-10001/2090011241_zpid/
+17,15 Hudson Yards # 64D,New York,NY,10001,5895000.0,2017.0,2.0,3.0,24.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-Hudson-Yards-64D-New-York-NY-10001/2090008893_zpid/
+18,245 10th Ave #4w,New York,NY,10001,4450000.0,2349.0,3.0,3.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/245-10th-Ave-4w-New-York-NY-10001/89331919_zpid/
+19,249 W 29th St APT 3N,New York,NY,10001,1995000.0,1600.0,2.0,2.0,26.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/249-W-29th-St-APT-3N-New-York-NY-10001/72515635_zpid/
+20,550 W 29th St # 3A,New York,NY,10001,4500000.0,2180.0,3.0,4.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/550-W-29th-St-3A-New-York-NY-10001/2090090832_zpid/
+21,260 5th Ave FL 7,New York,NY,10001,6995000.0,,5.0,5.0,24.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/260-5th-Ave-FL-7-New-York-NY-10001/2090013099_zpid/
+22,245 10th Ave APT 9W,New York,NY,10001,4950000.0,2519.0,3.0,3.0,21.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/245-10th-Ave-APT-9W-New-York-NY-10001/2106198586_zpid/
+23,550 W 29th St # 3D,New York,NY,10001,3750000.0,1863.0,3.0,3.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/550-W-29th-St-3D-New-York-NY-10001/2090086617_zpid/
+24,355 W 29th St APT 2B,New York,NY,10001,875000.0,,1.0,1.0,23.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/355-W-29th-St-APT-2B-New-York-NY-10001/72515341_zpid/
+25,1200 Broadway APT 8G,New York,NY,10001,3200000.0,,1.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/1200-Broadway-APT-8G-New-York-NY-10001/244750799_zpid/
+26,150 W 26th St APT 602,NEW YORK,NY,10001,2450000.0,1743.0,2.0,3.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/150-W-26th-St-APT-602-New-York-NY-10001/60147943_zpid/
+27,15 Hudson Yards # 27G,New York,NY,10001,4315000.0,1464.0,2.0,3.0,24.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-Hudson-Yards-27G-New-York-NY-10001/2090008898_zpid/
+28,143 W 27th St APT 5,New York,NY,10001,2595000.0,2000.0,3.0,2.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/143-W-27th-St-APT-5-New-York-NY-10001/244891272_zpid/
+29,245 10th Ave APT 3E,New York,NY,10001,2645000.0,1491.0,2.0,2.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/245-10th-Ave-APT-3E-New-York-NY-10001/2090148571_zpid/
+30,252 7th Ave APT 8A,NEW YORK,NY,10001,2795000.0,2066.0,2.0,2.0,18.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/252-7th-Ave-APT-8A-New-York-NY-10001/55501476_zpid/
+31,1200 Broadway APT 7A,New York,NY,10001,2499999.0,2071.0,2.0,2.0,30.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/1200-Broadway-APT-7A-New-York-NY-10001/244734202_zpid/
+32,252 7th Ave APT 5T,NEW YORK,NY,10001,2375000.0,1140.0,1.0,2.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/252-7th-Ave-APT-5T-New-York-NY-10001/55501415_zpid/
+33,11 W 30th St APT 11F,New York,NY,10001,3250000.0,2400.0,3.0,2.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/11-W-30th-St-APT-11F-New-York-NY-10001/119916858_zpid/
+34,250 W 27th St APT 3J,New York,NY,10001,775000.0,,1.0,1.0,14.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/250-W-27th-St-APT-3J-New-York-NY-10001/119912035_zpid/
+35,143 W 27th St APT 3F,New York,NY,10001,2790000.0,2064.0,3.0,2.0,18.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/143-W-27th-St-APT-3F-New-York-NY-10001/123128586_zpid/
+36,420 W 25th St APT 3A,NEW YORK,NY,10001,1685000.0,1240.0,1.0,2.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/420-W-25th-St-APT-3A-New-York-NY-10001/83933235_zpid/
+37,315 7th Ave APT 17C,NEW YORK,NY,10001,1295000.0,612.0,0.0,1.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/315-7th-Ave-APT-17C-New-York-NY-10001/31503949_zpid/
+38,540 W 28th St APT 6E,NEW YORK,NY,10001,1375000.0,776.0,1.0,1.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/540-W-28th-St-APT-6E-New-York-NY-10001/112089013_zpid/
+39,225 W 25th St APT 2A,New York,NY,10001,879000.0,700.0,1.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/225-W-25th-St-APT-2A-New-York-NY-10001/80622562_zpid/
+40,15 Hudson Yards # PH88B,New York,NY,10001,32000000.0,5161.0,4.0,7.0,100.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-Hudson-Yards-PH88B-New-York-NY-10001/2091275868_zpid/
+41,341 W 29th St # 1/2,New York,NY,10001,6500000.0,,7.0,10.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/341-W-29th-St-1-2-New-York-NY-10001/2093925609_zpid/
+42,341 W 29th St,New York,NY,10001,6500000.0,6000.0,7.0,10.0,,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/341-W-29th-St-New-York-NY-10001/2090867651_zpid/
+43,W 28th St # 532,New York,NY,10001,,120983.0,0.0,,61.0,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/247194502_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+44,236 W 26th St APT 2W,New York,NY,10001,5500000.0,4200.0,3.0,5.0,73.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/236-W-26th-St-APT-2W-New-York-NY-10001/2138443114_zpid/
+45,52 W 28th St,New York,NY,10001,8835000.0,3780.0,0.0,3.0,,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/52-W-28th-St-New-York-NY-10001/2091648936_zpid/
+46,245 7th Ave # 6B/6C,New York,NY,10001,5000000.0,3239.0,4.0,4.0,120.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/245-7th-Ave-6B-6C-New-York-NY-10001/2091551116_zpid/
+47,11 W 30th St APT 9R,New York,NY,10001,3795000.0,2946.0,2.0,2.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/11-W-30th-St-APT-9R-New-York-NY-10001/244842787_zpid/
+48,15 Hudson Yards # 71B,New York,NY,10001,11880000.0,3039.0,4.0,5.0,89.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-Hudson-Yards-71B-New-York-NY-10001/2091098605_zpid/
+49,15 Hudson Yards # 63B,New York,NY,10001,7875000.0,2334.0,2.0,3.0,46.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-Hudson-Yards-63B-New-York-NY-10001/2090450010_zpid/
+50,15 Hudson Yards # 63B,New York,NY,10001,7875000.0,2334.0,2.0,3.0,46.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-Hudson-Yards-63B-New-York-NY-10001/2090450010_zpid/
+51,50 W 29th St APT 9E,New York,NY,10001,3175000.0,,3.0,2.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/50-W-29th-St-APT-9E-New-York-NY-10001/79496364_zpid/
+52,515 W 29th St APT 2N,New York,NY,10001,5250000.0,2151.0,3.0,3.0,35.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/515-W-29th-St-APT-2N-New-York-NY-10001/2090240726_zpid/
+53,291 7th Ave APT 3,NEW YORK,NY,10001,4200000.0,3370.0,2.0,2.0,102.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/291-7th-Ave-APT-3-New-York-NY-10001/55501739_zpid/
+54,15 Hudson Yards # 74F,New York,NY,10001,5030000.0,1700.0,2.0,3.0,114.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-Hudson-Yards-74F-New-York-NY-10001/2091472687_zpid/
+55,15 Hudson Yards # 75D,New York,NY,10001,5615000.0,1753.0,2.0,3.0,95.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-Hudson-Yards-75D-New-York-NY-10001/2091212924_zpid/
+56,520 W 28th St # 34,New York,NY,10001,16000000.0,4023.0,5.0,5.0,57.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/520-W-28th-St-34-New-York-NY-10001/2100711260_zpid/
+57,522 W 29th St # 5A,New York,NY,10001,9750000.0,3586.0,5.0,5.0,65.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/522-W-29th-St-5A-New-York-NY-10001/2106481374_zpid/
+58,15 Hudson Yards # PH85A,New York,NY,10001,13880000.0,3364.0,4.0,5.0,114.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-Hudson-Yards-PH85A-New-York-NY-10001/2091472682_zpid/
+59,261 W 25th St # 6D,New York,NY,10001,3975000.0,1849.0,3.0,3.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/261-W-25th-St-6D-New-York-NY-10001/219650842_zpid/
+60,15 Hudson Yards # 30H,New York,NY,10001,6470000.0,2220.0,3.0,3.0,46.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-Hudson-Yards-30H-New-York-NY-10001/2090450011_zpid/
+61,15 Hudson Yards # 67E,New York,NY,10001,7575000.0,2497.0,2.0,3.0,154.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-Hudson-Yards-67E-New-York-NY-10001/2091833309_zpid/
+62,15 Hudson Yards # 34D,New York,NY,10001,3875000.0,1564.0,2.0,3.0,46.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-Hudson-Yards-34D-New-York-NY-10001/2090450015_zpid/
+63,15 Hudson Yards # 71E,New York,NY,10001,7570000.0,2292.0,3.0,4.0,156.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-Hudson-Yards-71E-New-York-NY-10001/2091857683_zpid/
+64,130 W 30th St APT 8C,NEW YORK,NY,10001,2550000.0,2055.0,3.0,3.0,60.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/130-W-30th-St-APT-8C-New-York-NY-10001/63865877_zpid/
+65,245 7th Ave APT 6B,NEW YORK,NY,10001,3700000.0,2258.0,3.0,3.0,122.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/245-7th-Ave-APT-6B-New-York-NY-10001/31503823_zpid/
+66,522 W 29th St # 5B,New York,NY,10001,6400000.0,2278.0,3.0,4.0,65.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/522-W-29th-St-5B-New-York-NY-10001/2106481367_zpid/
+67,515 W 29th St APT 5S,New York,NY,10001,5750000.0,2140.0,2.0,3.0,49.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/515-W-29th-St-APT-5S-New-York-NY-10001/2090490387_zpid/
+68,15 Hudson Yards # PH86D,New York,NY,10001,8475000.0,2515.0,3.0,4.0,46.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-Hudson-Yards-PH86D-New-York-NY-10001/2091850740_zpid/
+69,527 W 27th St # 7A,New York,NY,10001,7550000.0,2828.0,4.0,5.0,105.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/527-W-27th-St-7A-New-York-NY-10001/2098168072_zpid/
+70,261 W 25th St APT 4B,New York,NY,10001,2795000.0,1459.0,2.0,3.0,32.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/261-W-25th-St-APT-4B-New-York-NY-10001/2099241956_zpid/
+71,315 W 29th St,New York,NY,10001,7690000.0,5808.0,14.0,14.0,102.0,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/315-W-29th-St-New-York-NY-10001/2112495726_zpid/
+72,245 7th Ave APT 4A,NEW YORK,NY,10001,2995000.0,2002.0,2.0,3.0,72.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/245-7th-Ave-APT-4A-New-York-NY-10001/31503816_zpid/
+73,520 W 28th St # 23,New York,NY,10001,12000000.0,3840.0,4.0,5.0,401.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/520-W-28th-St-23-New-York-NY-10001/2100706915_zpid/
+74,430 W 34th St APT 17J,New York,NY,10001,435000.0,,0.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/430-W-34th-St-APT-17J-New-York-NY-10001/244727172_zpid/
+75,527 W 27th St # 3A,New York,NY,10001,5250000.0,2218.0,3.0,4.0,105.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/527-W-27th-St-3A-New-York-NY-10001/2098168070_zpid/
+76,522 W 29th St FL 2B,New York,NY,10001,5750000.0,2146.0,3.0,4.0,65.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/522-W-29th-St-FL-2B-New-York-NY-10001/2090752578_zpid/
+77,15 Hudson Yards # PH86C,New York,NY,10001,9255000.0,2566.0,3.0,4.0,113.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-Hudson-Yards-PH86C-New-York-NY-10001/2091456056_zpid/
+78,15 Hudson Yards # PH83B,New York,NY,10001,12810000.0,3203.0,4.0,5.0,156.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-Hudson-Yards-PH83B-New-York-NY-10001/2091856305_zpid/
+79,15 Hudson Yards # 72A,New York,NY,10001,9515000.0,2400.0,3.0,4.0,46.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-Hudson-Yards-72A-New-York-NY-10001/2095353194_zpid/
+80,520 W 28th St # 5,New York,NY,10001,6450000.0,2065.0,3.0,4.0,52.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/520-W-28th-St-5-New-York-NY-10001/2092265200_zpid/
+81,515 W 29th St APT 3S,New York,NY,10001,5450000.0,2140.0,2.0,3.0,49.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/515-W-29th-St-APT-3S-New-York-NY-10001/2090490385_zpid/
+82,515 W 29th St APT 3N,New York,NY,10001,5250000.0,2133.0,2.0,3.0,49.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/515-W-29th-St-APT-3N-New-York-NY-10001/2090490384_zpid/
+83,231 W 26th St # 5THFL,New York,NY,10001,2675000.0,1403.0,2.0,2.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/231-W-26th-St-5THFL-New-York-NY-10001/2091296480_zpid/
+84,550 W 29th St # 2B,New York,NY,10001,5900000.0,2269.0,3.0,4.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/550-W-29th-St-2B-New-York-NY-10001/2092077923_zpid/
+85,527 W 27th St # 4D,New York,NY,10001,4725000.0,1942.0,3.0,4.0,105.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/527-W-27th-St-4D-New-York-NY-10001/2098168074_zpid/
+86,245 7th Ave # PHBC,New York,NY,10001,7895000.0,3900.0,3.0,3.0,694.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/245-7th-Ave-PHBC-New-York-NY-10001/2098208345_zpid/
+87,261 W 25th St # 4B,New York,NY,10001,2795000.0,1459.0,2.0,3.0,32.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/261-W-25th-St-4B-New-York-NY-10001/219650830_zpid/
+88,50 W 30th St # 21A,New York,NY,10001,3145000.0,1330.0,2.0,2.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/50-W-30th-St-21A-New-York-NY-10001/2091088964_zpid/
+89,1182 Broadway APT 8A,New York,NY,10001,1950000.0,1015.0,1.0,1.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1182-Broadway-APT-8A-New-York-NY-10001/2097793918_zpid/
+90,527 W 27th St # 6B,New York,NY,10001,3695000.0,1539.0,2.0,3.0,105.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/527-W-27th-St-6B-New-York-NY-10001/2098168073_zpid/
+91,1182 Broadway APT 12B,New York,NY,10001,1825000.0,1009.0,1.0,1.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1182-Broadway-APT-12B-New-York-NY-10001/2101440207_zpid/
+92,357 W 30th St APT 2,NEW YORK,NY,10001,625000.0,453.0,0.0,1.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/357-W-30th-St-APT-2-New-York-NY-10001/31502687_zpid/
+93,520 W 28th St # 11,New York,NY,10001,8795000.0,2924.0,3.0,4.0,310.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/520-W-28th-St-11-New-York-NY-10001/2096099665_zpid/
+94,540 W 28th St APT 3B,NEW YORK,NY,10001,1800000.0,1181.0,2.0,2.0,86.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/540-W-28th-St-APT-3B-New-York-NY-10001/112088990_zpid/
+95,261 W 25th St # 3C,New York,NY,10001,2235000.0,1122.0,2.0,2.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/261-W-25th-St-3C-New-York-NY-10001/219650827_zpid/
+96,144 W 27th St RM 8R,New York,NY,10001,3350000.0,3050.0,2.0,3.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/144-W-27th-St-RM-8R-New-York-NY-10001/2091072897_zpid/
+97,245 10th Ave APT 6E,New York,NY,10001,2795000.0,1501.0,2.0,2.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/245-10th-Ave-APT-6E-New-York-NY-10001/2090170873_zpid/
+98,50 W 30th St # 3E,New York,NY,10001,2800000.0,1325.0,2.0,2.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/50-W-30th-St-3E-New-York-NY-10001/2098676782_zpid/
+99,252 7th Ave APT 17F,NEW YORK,NY,10001,2795000.0,1257.0,2.0,2.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/252-7th-Ave-APT-17F-New-York-NY-10001/54048942_zpid/
+100,252 7th Ave APT 10V,NEW YORK,NY,10001,2875000.0,1478.0,2.0,2.0,53.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/252-7th-Ave-APT-10V-New-York-NY-10001/55501547_zpid/
+101,231 W 26th St APT 5,NEW YORK,NY,10001,2675000.0,1403.0,2.0,2.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/231-W-26th-St-APT-5-New-York-NY-10001/63865755_zpid/
+102,540 W 28th St APT 10A,NEW YORK,NY,10001,2495000.0,1245.0,2.0,2.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/540-W-28th-St-APT-10A-New-York-NY-10001/112089042_zpid/
+103,1200 Broadway APT 5F,New York,NY,10001,2345000.0,,2.0,2.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/1200-Broadway-APT-5F-New-York-NY-10001/2090242924_zpid/
+104,15 Hudson Yards # 66C,New York,NY,10001,4855000.0,1885.0,2.0,3.0,238.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-Hudson-Yards-66C-New-York-NY-10001/2096214556_zpid/
+105,50 W 30th St # 15B,New York,NY,10001,2895000.0,1310.0,2.0,3.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/50-W-30th-St-15B-New-York-NY-10001/2091089984_zpid/
+106,1182 Broadway APT 7A,New York,NY,10001,1900000.0,1015.0,1.0,1.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1182-Broadway-APT-7A-New-York-NY-10001/2091995734_zpid/
+107,408 8th Ave APT 5C,NEW YORK,NY,10001,947500.0,712.0,1.0,1.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/408-8th-Ave-APT-5C-New-York-NY-10001/31503395_zpid/
+108,420 W 25th St APT 6H,NEW YORK,NY,10001,1775000.0,1257.0,2.0,2.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/420-W-25th-St-APT-6H-New-York-NY-10001/83934815_zpid/
+109,50 W 30th St # 8A,New York,NY,10001,2495000.0,1266.0,2.0,2.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/50-W-30th-St-8A-New-York-NY-10001/2092065214_zpid/
+110,420 W 25th St APT 1A,NEW YORK,NY,10001,1850000.0,1183.0,1.0,2.0,403.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/420-W-25th-St-APT-1A-New-York-NY-10001/89335782_zpid/
+111,252 7th Ave APT 7W,NEW YORK,NY,10001,2750000.0,1508.0,1.0,2.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/252-7th-Ave-APT-7W-New-York-NY-10001/55501470_zpid/
+112,250 W 27th St APT 6K,New York,NY,10001,1250000.0,,1.0,2.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/250-W-27th-St-APT-6K-New-York-NY-10001/72515631_zpid/
+113,420 W 25th St APT 7B,NEW YORK,NY,10001,1300000.0,1036.0,1.0,1.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/420-W-25th-St-APT-7B-New-York-NY-10001/89333552_zpid/
+114,11 W 30th St APT 9R,New York,NY,10001,3795000.0,2946.0,2.0,2.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/11-W-30th-St-APT-9R-New-York-NY-10001/123824430_zpid/
+115,261 W 25th St # 7E,New York,NY,10001,1675000.0,783.0,1.0,1.0,65.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/261-W-25th-St-7E-New-York-NY-10001/219650847_zpid/
+116,284 5th Ave # 7E,New York,NY,10001,1150000.0,950.0,1.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/284-5th-Ave-7E-New-York-NY-10001/244715105_zpid/
+117,430 W 34th St APT 17J,New York,NY,10001,435000.0,,0.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/430-W-34th-St-APT-17J-New-York-NY-10001/72538115_zpid/
+118,225 W 25th St APT 1E,New York,NY,10001,865000.0,750.0,1.0,1.0,43.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/225-W-25th-St-APT-1E-New-York-NY-10001/121711918_zpid/
+119,261 W 25th St # 6A,New York,NY,10001,1460000.0,720.0,1.0,1.0,53.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/261-W-25th-St-6A-New-York-NY-10001/219650839_zpid/
+120,225 W 25th St APT 5L,New York,NY,10001,899000.0,730.0,1.0,1.0,39.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/225-W-25th-St-APT-5L-New-York-NY-10001/79496013_zpid/
+121,315 7th Ave APT 2D,New York,NY,10001,1498000.0,970.0,1.0,1.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/315-7th-Ave-APT-2D-New-York-NY-10001/31503884_zpid/
+122,261 W 25th St # 2E,New York,NY,10001,1450000.0,783.0,1.0,1.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/261-W-25th-St-2E-New-York-NY-10001/219650824_zpid/
+123,261 W 25th St # GRDNC,New York,NY,10001,1395000.0,714.0,2.0,1.0,526.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/261-W-25th-St-GRDNC-New-York-NY-10001/2096177539_zpid/
+124,245 10th Ave,New York,NY,10001,4950000.0,2524.0,3.0,3.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/245-10th-Ave-New-York-NY-10001/2143505214_zpid/
+125,36 W 35th St APT 2D,New York,NY,10001,449500.0,450.0,0.0,1.0,92.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/36-W-35th-St-APT-2D-New-York-NY-10001/244871772_zpid/
+126,15 Hudson Yards # 66B,New York,NY,10001,7935000.0,2320.0,2.0,3.0,161.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-Hudson-Yards-66B-New-York-NY-10001/2091911709_zpid/
+127,520 W 28th St # 26,New York,NY,10001,5295000.0,1717.0,2.0,3.0,204.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/520-W-28th-St-26-New-York-NY-10001/2100711259_zpid/
+128,7th Ave APT 6G,NEW YORK,NY,10001,,1586.0,,,114.0,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/245102995_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+129,67 E 11th St APT 612,New York,NY,10003,699000.0,,0.0,1.0,2.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/67-E-11th-St-APT-612-New-York-NY-10003/244725396_zpid/
+130,142 E 16th St APT 19C,New York,NY,10003,650000.0,,0.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/142-E-16th-St-APT-19C-New-York-NY-10003/244729042_zpid/
+131,327 E 9th St # 1,New York,NY,10003,13000000.0,8323.0,10.0,13.0,1.0,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/327-E-9th-St-1-New-York-NY-10003/2089613016_zpid/
+132,72-74 E 3rd St # 5C,Manhattan,NY,10003,1195000.0,645.0,1.0,1.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/72-74-E-3rd-St-5C-Manhattan-NY-10003/2089623099_zpid/
+133,51 5th Ave APT 5E,New York,NY,10003,1295000.0,,1.0,1.0,2.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/51-5th-Ave-APT-5E-New-York-NY-10003/80619376_zpid/
+134,39 E 12th St APT 102,New York,NY,10003,3100000.0,,2.0,3.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/39-E-12th-St-APT-102-New-York-NY-10003/244876061_zpid/
+135,50 E 8th St APT 5R,New York,NY,10003,529000.0,320.0,0.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/50-E-8th-St-APT-5R-New-York-NY-10003/79494216_zpid/
+136,145 E 15th St APT 2N,New York,NY,10003,650000.0,550.0,0.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/145-E-15th-St-APT-2N-New-York-NY-10003/72516794_zpid/
+137,41 5th Ave APT 14B,New York,NY,10003,1460000.0,900.0,1.0,1.0,2.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/41-5th-Ave-APT-14B-New-York-NY-10003/72513261_zpid/
+138,205 3rd Ave APT 4U,New York,NY,10003,775000.0,670.0,1.0,1.0,1.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/205-3rd-Ave-APT-4U-New-York-NY-10003/72538509_zpid/
+139,5 E 17th St,NEW YORK,NY,10003,17000000.0,6000.0,4.0,4.0,1.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/5-E-17th-St-New-York-NY-10003/55501775_zpid/
+140,50 E 8th St APT 6W,New York,NY,10003,750000.0,760.0,1.0,1.0,1.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/50-E-8th-St-APT-6W-New-York-NY-10003/72512569_zpid/
+141,20 E 9th St # 6-S,New York,NY,10003,949000.0,,1.0,1.0,1.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-E-9th-St-6-S-New-York-NY-10003/89712978_zpid/
+142,233 E 17th St # PH2,New York,NY,10003,2995000.0,1140.0,2.0,2.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/233-E-17th-St-PH2-New-York-NY-10003/2089591539_zpid/
+143,13 E 16th St FL 7,New York,NY,10003,2750000.0,,2.0,2.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/13-E-16th-St-FL-7-New-York-NY-10003/2089591555_zpid/
+144,23 E 10th St APT 231,New York,NY,10003,1900000.0,,2.0,2.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/23-E-10th-St-APT-231-New-York-NY-10003/111716612_zpid/
+145,99 E 4th St APT 5G,New York,NY,10003,775000.0,,1.0,1.0,10.0,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/99-E-4th-St-APT-5G-New-York-NY-10003/244883460_zpid/
+146,45 5th Ave APT 11D,New York,NY,10003,850000.0,,1.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/45-5th-Ave-APT-11D-New-York-NY-10003/94644393_zpid/
+147,50 E 8th St APT 5S,New York,NY,10003,695000.0,,1.0,1.0,7.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/50-E-8th-St-APT-5S-New-York-NY-10003/244799319_zpid/
+148,714 Broadway APT 8,New York,NY,10003,4250000.0,3139.0,2.0,2.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/714-Broadway-APT-8-New-York-NY-10003/244707608_zpid/
+149,1 5th Ave APT 2D,New York,NY,10003,2500000.0,,2.0,2.0,4.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/1-5th-Ave-APT-2D-New-York-NY-10003/244747959_zpid/
+150,21 E 12th St # 17C,New York,NY,10003,6375000.0,2028.0,2.0,3.0,10.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/21-E-12th-St-17C-New-York-NY-10003/2089764204_zpid/
+151,1 5th Ave APT 16B,New York,NY,10003,7350000.0,,2.0,2.0,9.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/1-5th-Ave-APT-16B-New-York-NY-10003/244737529_zpid/
+152,200 E 16th St APT 4M,New York,NY,10003,510000.0,,0.0,1.0,7.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/200-E-16th-St-APT-4M-New-York-NY-10003/244794749_zpid/
+153,830 Broadway APT 5,New York,NY,10003,2799500.0,2800.0,3.0,2.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/830-Broadway-APT-5-New-York-NY-10003/244784561_zpid/
+154,11 5th Ave # 9DC,New York,NY,10003,4495000.0,,4.0,3.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/11-5th-Ave-9DC-New-York-NY-10003/2089764205_zpid/
+155,40 E 10th St APT 4G,New York,NY,10003,4950000.0,,3.0,4.0,9.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/40-E-10th-St-APT-4G-New-York-NY-10003/244846971_zpid/
+156,82 Irving Pl # 34G,New York,NY,10003,2685000.0,,2.0,3.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/82-Irving-Pl-34G-New-York-NY-10003/2108510665_zpid/
+157,11 5th Ave # 10LM,New York,NY,10003,4595000.0,2100.0,3.0,3.0,7.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/11-5th-Ave-10LM-New-York-NY-10003/2089697604_zpid/
+158,8 Union Sq S # 7B,NEW YORK,NY,10003,2850000.0,1414.0,2.0,2.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/8-Union-Sq-S-7B-New-York-NY-10003/97527926_zpid/
+159,21 E 10th St APT 7D,New York,NY,10003,2195000.0,,2.0,2.0,9.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/21-E-10th-St-APT-7D-New-York-NY-10003/244777456_zpid/
+160,311 E 11th St # 4E,New York,NY,10003,1995000.0,1162.0,2.0,2.0,,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/311-E-11th-St-4E-New-York-NY-10003/2136690294_zpid/
+161,40-50 E 10th St # 8B,Manhattan,NY,10003,2695000.0,,2.0,2.0,8.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/40-50-E-10th-St-8B-Manhattan-NY-10003/2089726512_zpid/
+162,7 E 14th St,New York,NY,10003,890000.0,,1.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/7-E-14th-St-New-York-NY-10003/2104377516_zpid/
+163,170 2nd Ave APT 5D,New York,NY,10003,1745000.0,,2.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/170-2nd-Ave-APT-5D-New-York-NY-10003/244902548_zpid/
+164,226 E 12th St APT 5B,New York,NY,10003,725000.0,,1.0,1.0,8.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/226-E-12th-St-APT-5B-New-York-NY-10003/244694007_zpid/
+165,205 E 10th St APT 4A,New York,NY,10003,1275000.0,,2.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/205-E-10th-St-APT-4A-New-York-NY-10003/244773215_zpid/
+166,142 E 16th St APT 4H,New York,NY,10003,950000.0,850.0,1.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/142-E-16th-St-APT-4H-New-York-NY-10003/89454982_zpid/
+167,32 Gramercy Park S APT 10K,New York,NY,10003,695000.0,,0.0,1.0,8.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/32-Gramercy-Park-S-APT-10K-New-York-NY-10003/72537075_zpid/
+168,201 E 17th St APT 16F,New York,NY,10003,959000.0,,1.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/201-E-17th-St-APT-16F-New-York-NY-10003/244725913_zpid/
+169,874 Broadway APT 607,New York,NY,10003,1625000.0,1100.0,1.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/874-Broadway-APT-607-New-York-NY-10003/72516400_zpid/
+170,20 E 9th St # 3U,New York,NY,10003,1550000.0,980.0,1.0,1.0,8.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-E-9th-St-3U-New-York-NY-10003/244738688_zpid/
+171,211 E 13th St # 1D,New York,NY,10003,968500.0,,0.0,1.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/211-E-13th-St-1D-New-York-NY-10003/122064175_zpid/
+172,7 E 14th St APT 1627,New York,NY,10003,890000.0,,1.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/7-E-14th-St-APT-1627-New-York-NY-10003/244755278_zpid/
+173,130 E 18th St APT 1L,New York,NY,10003,739000.0,516.0,0.0,1.0,11.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/130-E-18th-St-APT-1L-New-York-NY-10003/72516863_zpid/
+174,(undisclosed Address),New York,NY,10003,1495000.0,,0.0,1.0,8.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/(undisclosed-Address)-New-York-NY-10003/2089731461_zpid/
+175,228 E 13th St APT 2,New York,NY,10003,369000.0,1600.0,0.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/228-E-13th-St-APT-2-New-York-NY-10003/111716815_zpid/
+176,317 E 6th St APT 1,New York,NY,10003,1200000.0,800.0,2.0,1.0,18.0,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/317-E-6th-St-APT-1-New-York-NY-10003/72511759_zpid/
+177,64 E 7th St,NEW YORK,NY,10003,18000000.0,7500.0,5.0,7.0,13.0,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/64-E-7th-St-New-York-NY-10003/31496619_zpid/
+178,30 E 9th St APT 3GG,New York,NY,10003,549995.0,,0.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/30-E-9th-St-APT-3GG-New-York-NY-10003/244730636_zpid/
+179,317 E 18th St APT 1D,New York,NY,10003,349000.0,,0.0,1.0,23.0,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/317-E-18th-St-APT-1D-New-York-NY-10003/2108050425_zpid/
+180,28 E 4th St # PHE,New York,NY,10003,4500000.0,,3.0,3.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/28-E-4th-St-PHE-New-York-NY-10003/2090043983_zpid/
+181,445 Lafayette St,New York,NY,10003,1730000.0,,,,16.0,Auction,http://www.zillow.com/homes/for_sale//homedetails/445-Lafayette-St-New-York-NY-10003/2106643601_zpid/
+182,7 E 14th St APT 1004,New York,NY,10003,550000.0,500.0,0.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/7-E-14th-St-APT-1004-New-York-NY-10003/244853862_zpid/
+183,29 E 11th St,NEW YORK,NY,10003,9725000.0,5000.0,6.0,6.0,24.0,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/29-E-11th-St-New-York-NY-10003/31498560_zpid/
+184,214 E 9th St APT 4C,New York,NY,10003,2650000.0,1175.0,1.0,2.0,29.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/214-E-9th-St-APT-4C-New-York-NY-10003/2090106220_zpid/
+185,315 E 12th St APT 30,New York,NY,10003,849000.0,,2.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/315-E-12th-St-APT-30-New-York-NY-10003/119913258_zpid/
+186,15 Union Sq W APT 3B,New York,NY,10003,11000000.0,2849.0,3.0,4.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-Union-Sq-W-APT-3B-New-York-NY-10003/2130581537_zpid/
+187,60 E 9th St APT 531,New York,NY,10003,499000.0,,0.0,1.0,16.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/60-E-9th-St-APT-531-New-York-NY-10003/244704940_zpid/
+188,1 5th Ave APT 10G,New York,NY,10003,3995000.0,,2.0,2.0,27.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/1-5th-Ave-APT-10G-New-York-NY-10003/244864470_zpid/
+189,211 E 18th St APT 2NO,New York,NY,10003,1695000.0,,3.0,2.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/211-E-18th-St-APT-2NO-New-York-NY-10003/244786573_zpid/
+190,52 E 4th St PENTHOUSE 3,New York,NY,10003,5650000.0,1317.0,2.0,3.0,18.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/52-E-4th-St-PENTHOUSE-3-New-York-NY-10003/89336091_zpid/
+191,15 Union Sq W # 2-NORTH,New York,NY,10003,2250000.0,1415.0,2.0,1.0,23.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-Union-Sq-W-2-NORTH-New-York-NY-10003/2089990930_zpid/
+192,347 Bowery # 5/6,New York,NY,10003,7000000.0,2891.0,2.0,4.0,16.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/347-Bowery-5-6-New-York-NY-10003/2098423457_zpid/
+193,15 Union Sq W # 3B2N,New York,NY,10003,13250000.0,4264.0,5.0,5.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-Union-Sq-W-3B2N-New-York-NY-10003/2089962215_zpid/
+194,110 3rd Ave APT 10C,NEW YORK,NY,10003,2950000.0,1442.0,3.0,3.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/110-3rd-Ave-APT-10C-New-York-NY-10003/97509334_zpid/
+195,126 E 12th St APT 1B,New York,NY,10003,975000.0,,2.0,1.0,21.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/126-E-12th-St-APT-1B-New-York-NY-10003/114275510_zpid/
+196,59 4th Ave APT 2A,New York,NY,10003,1900000.0,1900.0,2.0,2.0,17.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/59-4th-Ave-APT-2A-New-York-NY-10003/84074802_zpid/
+197,232 E 6th St APT 3D,New York,NY,10003,669000.0,450.0,1.0,1.0,11.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/232-E-6th-St-APT-3D-New-York-NY-10003/72511803_zpid/
+198,7 E 14th St # PHD,New York,NY,10003,1499000.0,,1.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/7-E-14th-St-PHD-New-York-NY-10003/2110204534_zpid/
+199,28 E 10th St APT 4H,NEW YORK,NY,10003,3495000.0,1534.0,2.0,2.0,14.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/28-E-10th-St-APT-4H-New-York-NY-10003/97508952_zpid/
+200,205 3rd Ave APT 4F,New York,NY,10003,650000.0,700.0,1.0,1.0,30.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/205-3rd-Ave-APT-4F-New-York-NY-10003/72517991_zpid/
+201,317 E 18th St APT 1D,New York,NY,10003,349000.0,,0.0,1.0,24.0,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/317-E-18th-St-APT-1D-New-York-NY-10003/121818809_zpid/
+202,133 2nd Ave APT 6,NEW YORK,NY,10003,1745000.0,990.0,2.0,2.0,29.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/133-2nd-Ave-APT-6-New-York-NY-10003/97502288_zpid/
+203,222 E 5th St APT 5,New York,NY,10003,1469000.0,829.0,1.0,1.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/222-E-5th-St-APT-5-New-York-NY-10003/2102044451_zpid/
+204,311 E 11th St # PH1B,New York,NY,10003,1895000.0,1024.0,2.0,2.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/311-E-11th-St-PH1B-New-York-NY-10003/2089845043_zpid/
+205,62 E 1st St APT 4S,NEW YORK,NY,10003,1795000.0,1027.0,2.0,1.0,21.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/62-E-1st-St-APT-4S-New-York-NY-10003/97505655_zpid/
+206,25 5th Ave APT 14B,NEW YORK,NY,10003,2995000.0,,2.0,1.0,30.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/25-5th-Ave-APT-14B-New-York-NY-10003/89332531_zpid/
+207,230 E 15th St APT 7P,New York,NY,10003,595000.0,,0.0,1.0,26.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/230-E-15th-St-APT-7P-New-York-NY-10003/244719950_zpid/
+208,240 Park Ave S APT 6A,NEW YORK,NY,10003,3800000.0,1581.0,2.0,2.0,15.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/240-Park-Ave-S-APT-6A-New-York-NY-10003/89329557_zpid/
+209,70 E 10th St APT 4E,New York,NY,10003,2200000.0,1500.0,2.0,2.0,13.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/70-E-10th-St-APT-4E-New-York-NY-10003/244903027_zpid/
+210,148 E 19th St APT 2C,New York,NY,10003,1200000.0,600.0,1.0,1.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/148-E-19th-St-APT-2C-New-York-NY-10003/2111739716_zpid/
+211,205 E 16th St APT 3D,NEW YORK,NY,10003,2450000.0,1619.0,2.0,2.0,21.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/205-E-16th-St-APT-3D-New-York-NY-10003/80006517_zpid/
+212,142 E 16th St APT 16B,New York,NY,10003,689900.0,650.0,1.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/142-E-16th-St-APT-16B-New-York-NY-10003/244752190_zpid/
+213,38 E 1st St # 2B,New York,NY,10003,2480000.0,1350.0,3.0,2.0,22.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/38-E-1st-St-2B-New-York-NY-10003/244862504_zpid/
+214,317 E 18th St APT 6B,New York,NY,10003,375000.0,,0.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/317-E-18th-St-APT-6B-New-York-NY-10003/84074761_zpid/
+215,67 E 11th St APT 504,New York,NY,10003,979500.0,798.0,1.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/67-E-11th-St-APT-504-New-York-NY-10003/244836939_zpid/
+216,55 E 11th St APT 3,New York,NY,10003,3850000.0,,3.0,3.0,30.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/55-E-11th-St-APT-3-New-York-NY-10003/72513080_zpid/
+217,242 E 19th St APT 11A,New York,NY,10003,1895000.0,,2.0,2.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/242-E-19th-St-APT-11A-New-York-NY-10003/219657673_zpid/
+218,32 Gramercy Park S # 2G,New York,NY,10003,899000.0,850.0,1.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/32-Gramercy-Park-S-2G-New-York-NY-10003/72516970_zpid/
+219,200 E 16th St APT 1A,New York,NY,10003,1395000.0,1000.0,2.0,2.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/200-E-16th-St-APT-1A-New-York-NY-10003/72538482_zpid/
+220,88 E 3rd St APT 7,New York,NY,10003,699000.0,,1.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/88-E-3rd-St-APT-7-New-York-NY-10003/80624951_zpid/
+221,210 E 15th St APT 9D,New York,NY,10003,685000.0,,1.0,1.0,25.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/210-E-15th-St-APT-9D-New-York-NY-10003/244695293_zpid/
+222,115 E 9th St APT 12H,New York,NY,10003,1695000.0,,2.0,2.0,28.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/115-E-9th-St-APT-12H-New-York-NY-10003/72512783_zpid/
+223,115 4th Ave APT 6H,NEW YORK,NY,10003,1795000.0,,1.0,2.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/115-4th-Ave-APT-6H-New-York-NY-10003/31498375_zpid/
+224,40-50 E 10th St # 4J,Manhattan,NY,10003,1725000.0,,1.0,2.0,16.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/40-50-E-10th-St-4J-Manhattan-NY-10003/2089855502_zpid/
+225,305 2nd Ave APT 513,NEW YORK,NY,10003,1695000.0,1200.0,2.0,1.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/305-2nd-Ave-APT-513-New-York-NY-10003/63866671_zpid/
+226,130 E 18th St APT 8C,New York,NY,10003,850000.0,,1.0,1.0,14.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/130-E-18th-St-APT-8C-New-York-NY-10003/79496729_zpid/
+227,200 E 16th St APT 3J,New York,NY,10003,899000.0,,1.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/200-E-16th-St-APT-3J-New-York-NY-10003/72517908_zpid/
+228,70 E 10th St APT 16K,New York,NY,10003,1210000.0,1100.0,1.0,1.0,13.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/70-E-10th-St-APT-16K-New-York-NY-10003/244704797_zpid/
+229,1 Irving Pl APT G10F,NEW YORK,NY,10003,1495000.0,785.0,1.0,1.0,14.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1-Irving-Pl-APT-G10F-New-York-NY-10003/31506014_zpid/
+230,20 E 9th St APT 3S,New York,NY,10003,850000.0,,1.0,1.0,18.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-E-9th-St-APT-3S-New-York-NY-10003/244786397_zpid/
+231,1 Irving Pl APT V16C,NEW YORK,NY,10003,1225000.0,670.0,1.0,1.0,20.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1-Irving-Pl-APT-V16C-New-York-NY-10003/31506273_zpid/
+232,20 E 9th St # 22D,New York,NY,10003,1750000.0,,1.0,1.0,15.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-E-9th-St-22D-New-York-NY-10003/79494737_zpid/
+233,230 E 20th St # 11,New York,NY,10003,1350000.0,648.0,1.0,1.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/230-E-20th-St-11-New-York-NY-10003/2090020145_zpid/
+234,211 E 18th St APT 3M,New York,NY,10003,775000.0,700.0,1.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/211-E-18th-St-APT-3M-New-York-NY-10003/72537089_zpid/
+235,7 E 14th St APT 17A,New York,NY,10003,1195000.0,,1.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/7-E-14th-St-APT-17A-New-York-NY-10003/244779054_zpid/
+236,1 Irving Pl APT G8I,NEW YORK,NY,10003,1100000.0,585.0,1.0,1.0,29.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1-Irving-Pl-APT-G8I-New-York-NY-10003/31506046_zpid/
+237,41 5th Ave APT 4C,New York,NY,10003,1225000.0,,1.0,1.0,14.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/41-5th-Ave-APT-4C-New-York-NY-10003/119909190_zpid/
+238,134 E 16th St APT 3,New York,NY,10003,925000.0,650.0,1.0,1.0,25.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/134-E-16th-St-APT-3-New-York-NY-10003/111024644_zpid/
+239,7 E 14th St APT 920,New York,NY,10003,899000.0,,1.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/7-E-14th-St-APT-920-New-York-NY-10003/72516343_zpid/
+240,7 E 14th St APT 21C,New York,NY,10003,825000.0,,1.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/7-E-14th-St-APT-21C-New-York-NY-10003/111024642_zpid/
+241,67 E 11th St APT 619,New York,NY,10003,635000.0,,0.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/67-E-11th-St-APT-619-New-York-NY-10003/123518525_zpid/
+242,7 E 14th St APT 1228,New York,NY,10003,899000.0,725.0,1.0,1.0,18.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/7-E-14th-St-APT-1228-New-York-NY-10003/72516354_zpid/
+243,63 E 9th St APT 4M,New York,NY,10003,1425000.0,850.0,2.0,1.0,21.0,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/63-E-9th-St-APT-4M-New-York-NY-10003/244887096_zpid/
+244,200 E 16th St # 9EM,New York,NY,10003,1495000.0,900.0,1.0,2.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/200-E-16th-St-9EM-New-York-NY-10003/123118851_zpid/
+245,23 E 10th St APT 409,New York,NY,10003,1250000.0,,1.0,1.0,14.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/23-E-10th-St-APT-409-New-York-NY-10003/72512983_zpid/
+246,63 E 9th St APT 9G,New York,NY,10003,1350000.0,,1.0,1.0,,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/63-E-9th-St-APT-9G-New-York-NY-10003/244871200_zpid/
+247,67 E 11th St APT 218,New York,NY,10003,630000.0,,0.0,1.0,18.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/67-E-11th-St-APT-218-New-York-NY-10003/72513045_zpid/
+248,60 E 8th St APT 26M,New York,NY,10003,1450000.0,,1.0,1.0,16.0,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/60-E-8th-St-APT-26M-New-York-NY-10003/244715737_zpid/
+249,50 E 8th St APT 3T,New York,NY,10003,874000.0,950.0,2.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/50-E-8th-St-APT-3T-New-York-NY-10003/119910519_zpid/
+250,125 E 4th St APT 24,New York,NY,10003,618500.0,650.0,2.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/125-E-4th-St-APT-24-New-York-NY-10003/244799608_zpid/
+251,337 E 18th St,New York,NY,10003,5500000.0,3666.0,7.0,7.0,258.0,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/337-E-18th-St-New-York-NY-10003/2107086263_zpid/
+252,347 E 5th St APT 6A,New York,NY,10003,475000.0,,1.0,1.0,37.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/347-E-5th-St-APT-6A-New-York-NY-10003/2093130866_zpid/
+253,50 E 8th St APT 3U,New York,NY,10003,399000.0,,0.0,1.0,36.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/50-E-8th-St-APT-3U-New-York-NY-10003/244841886_zpid/
+254,323 E 17th St,NEW YORK,NY,10003,9400000.0,7000.0,6.0,5.0,,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/323-E-17th-St-New-York-NY-10003/31508819_zpid/
+255,E 14th St,New York,NY,10003,,197904.0,0.0,,578.0,Pre-Foreclosure (Auction),"http://www.zillow.com/homes/for_sale/244694667_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+256,32-34 E 2nd St # 13,Manhattan,NY,10003,899000.0,,2.0,1.0,90.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/32-34-E-2nd-St-13-Manhattan-NY-10003/2091105994_zpid/
+257,E 12th St APT 5A,New York,NY,10003,,984.0,0.0,,73.0,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/246128325_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+258,7 E 3rd St APT 14,New York,NY,10003,789000.0,,1.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/7-E-3rd-St-APT-14-New-York-NY-10003/94685256_zpid/
+259,111 3rd Ave # PHCD,New York,NY,10003,1500000.0,1200.0,3.0,2.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/111-3rd-Ave-PHCD-New-York-NY-10003/2090533304_zpid/
+260,18 Gramercy Park S,NEW YORK,NY,10003,46500000.0,6329.0,4.0,6.0,386.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/18-Gramercy-Park-S-New-York-NY-10003/122274881_zpid/
+261,8 Union Sq S,NEW YORK,NY,10003,7800000.0,2784.0,3.0,4.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/8-Union-Sq-S-New-York-NY-10003/97543231_zpid/
+262,215 E 19th St # 12C,New York,NY,10003,6270000.0,2539.0,4.0,5.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/215-E-19th-St-12C-New-York-NY-10003/2090184716_zpid/
+263,18 Gramercy Park S,New York,NY,10003,46500000.0,6329.0,4.0,10.0,45.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/18-Gramercy-Park-S-New-York-NY-10003/2090426638_zpid/
+264,20 E 10th St,NEW YORK,NY,10003,22900000.0,10100.0,6.0,7.0,64.0,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-E-10th-St-New-York-NY-10003/31498532_zpid/
+265,65 Irving Pl,New York,NY,10003,23000000.0,8573.0,2.0,4.0,63.0,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-Irving-Pl-New-York-NY-10003/2136558538_zpid/
+266,1 5th Ave # 18,New York,NY,10003,9995000.0,,4.0,4.0,42.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/1-5th-Ave-18-New-York-NY-10003/2090380523_zpid/
+267,137 E 15th St,NEW YORK,NY,10003,1945000.0,,2.0,2.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/137-E-15th-St-New-York-NY-10003/31506389_zpid/
+268,45 E 9th St # 47/48,New York,NY,10003,8250000.0,3000.0,4.0,4.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/45-E-9th-St-47-48-New-York-NY-10003/2105804461_zpid/
+269,18 Gramercy Park S APT 15,NEW YORK,NY,10003,19250000.0,4207.0,4.0,6.0,45.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/18-Gramercy-Park-S-APT-15-New-York-NY-10003/122272741_zpid/
+270,58 3rd Ave,NEW YORK,NY,10003,10500000.0,6305.0,4.0,1.0,92.0,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/58-3rd-Ave-New-York-NY-10003/31498263_zpid/
+271,240 Park Ave S APT 9A,NEW YORK,NY,10003,9995000.0,3920.0,5.0,5.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/240-Park-Ave-S-APT-9A-New-York-NY-10003/89333753_zpid/
+272,135 E 15th St,NEW YORK,NY,10003,17800000.0,8524.0,8.0,10.0,241.0,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/135-E-15th-St-New-York-NY-10003/118327948_zpid/
+273,18-22 E 18th St # 4E,Manhattan,NY,10003,4250000.0,3000.0,3.0,2.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/18-22-E-18th-St-4E-Manhattan-NY-10003/2090561427_zpid/
+274,18 Gramercy Park South # FL 15TH,New York,NY,10003,19250000.0,4207.0,4.0,6.0,45.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/18-Gramercy-Park-South-FL-15TH-New-York-NY-10003/2090429917_zpid/
+275,327 E 9th St,NEW YORK,NY,10003,17000000.0,8323.0,10.0,8.0,147.0,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/327-E-9th-St-New-York-NY-10003/122272395_zpid/
+276,36 Gramercy Park E APT 7W,NEW YORK,NY,10003,3899000.0,1285.0,2.0,2.0,473.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/36-Gramercy-Park-E-APT-7W-New-York-NY-10003/112515319_zpid/
+277,8 E 12th St APT 2,NEW YORK,NY,10003,3995000.0,2300.0,2.0,3.0,37.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/8-E-12th-St-APT-2-New-York-NY-10003/31498590_zpid/
+278,11 5th Ave # 15OP,New York,NY,10003,4999000.0,2200.0,3.0,3.0,59.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/11-5th-Ave-15OP-New-York-NY-10003/2090656216_zpid/
+279,21 E 12th St # 16C,New York,NY,10003,6225000.0,2028.0,2.0,3.0,353.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/21-E-12th-St-16C-New-York-NY-10003/2094140902_zpid/
+280,228 E 13th St APT 15,New York,NY,10003,525000.0,425.0,1.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/228-E-13th-St-APT-15-New-York-NY-10003/244840096_zpid/
+281,217 E 5th St # TH,New York,NY,10003,3950000.0,2300.0,2.0,3.0,53.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/217-E-5th-St-TH-New-York-NY-10003/2092713541_zpid/
+282,61 Irving Pl APT 1A,New York,NY,10003,1500000.0,1200.0,2.0,2.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/61-Irving-Pl-APT-1A-New-York-NY-10003/244767425_zpid/
+283,105 5th Ave # 3AB,New York,NY,10003,5950000.0,3100.0,3.0,4.0,38.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/105-5th-Ave-3AB-New-York-NY-10003/2090319278_zpid/
+284,114 E 10th St,NEW YORK,NY,10003,7875000.0,,6.0,5.0,,Townhouse For Sale,http://www.zillow.com/homes/for_sale//homedetails/114-E-10th-St-New-York-NY-10003/31496806_zpid/
+285,24 Gramercy Park S # 10/11S,New York,NY,10003,3750000.0,1400.0,2.0,2.0,109.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/24-Gramercy-Park-S-10-11S-New-York-NY-10003/2091415725_zpid/
+286,240 Park Ave S # 16PHA,NEW YORK,NY,10003,6495000.0,2310.0,3.0,4.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/240-Park-Ave-S-16PHA-New-York-NY-10003/97521287_zpid/
+287,34 Gramercy Park E # 3BN,New York,NY,10003,1895000.0,,2.0,2.0,39.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/34-Gramercy-Park-E-3BN-New-York-NY-10003/2090340307_zpid/
+288,25 E 4th St SUITE 2,New York,NY,10003,2795000.0,2000.0,3.0,2.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/25-E-4th-St-SUITE-2-New-York-NY-10003/219642484_zpid/
+289,18 Gramercy Park S # M1,NEW YORK,NY,10003,9900000.0,3750.0,2.0,4.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/18-Gramercy-Park-S-M1-New-York-NY-10003/122272263_zpid/
+290,35 E 10th St APT 5F,New York,NY,10003,499000.0,,0.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/35-E-10th-St-APT-5F-New-York-NY-10003/244808845_zpid/
+291,65 E 2nd St,NEW YORK,NY,10003,5200000.0,4600.0,8.0,7.0,165.0,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/65-E-2nd-St-New-York-NY-10003/31496552_zpid/
+292,28 E 10th St APT 10H,NEW YORK,NY,10003,4750000.0,2004.0,3.0,3.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/28-E-10th-St-APT-10H-New-York-NY-10003/96742595_zpid/
+293,355 E 19th St # 4,New York,NY,10003,2950000.0,2001.0,3.0,3.0,87.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/355-E-19th-St-4-New-York-NY-10003/244735673_zpid/
+294,210 E 15th St APT 11P,New York,NY,10003,465000.0,,0.0,1.0,91.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/210-E-15th-St-APT-11P-New-York-NY-10003/244869652_zpid/
+295,111 3rd Ave APT 14A,New York,NY,10003,650000.0,,0.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/111-3rd-Ave-APT-14A-New-York-NY-10003/244757643_zpid/
+296,215 E 19th St # 7A,New York,NY,10003,3940000.0,1850.0,2.0,3.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/215-E-19th-St-7A-New-York-NY-10003/2097115804_zpid/
+297,21 E 12th St # 5A,New York,NY,10003,3975000.0,1478.0,2.0,3.0,282.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/21-E-12th-St-5A-New-York-NY-10003/2093270260_zpid/
+298,39 E 10th St APT 3W,New York,NY,10003,2050000.0,,3.0,2.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/39-E-10th-St-APT-3W-New-York-NY-10003/244782627_zpid/
+299,874 Broadway APT 407,New York,NY,10003,1500000.0,,2.0,2.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/874-Broadway-APT-407-New-York-NY-10003/244858275_zpid/
+300,343 E 18th St,NEW YORK,NY,10003,8950000.0,6000.0,6.0,5.0,,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/343-E-18th-St-New-York-NY-10003/31508851_zpid/
+301,60 E 13th St APT 3E,New York,NY,10003,4249500.0,2575.0,4.0,3.0,389.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/60-E-13th-St-APT-3E-New-York-NY-10003/2112318451_zpid/
+302,738 Broadway APT PH1,New York,NY,10003,5745000.0,3188.0,3.0,3.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/738-Broadway-APT-PH1-New-York-NY-10003/2091844381_zpid/
+303,13 E 16th St STE 8R,New York,NY,10003,2500000.0,1318.0,2.0,2.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/13-E-16th-St-STE-8R-New-York-NY-10003/2125905309_zpid/
+304,32 E 1st St # PHC,New York,NY,10003,10500000.0,2887.0,4.0,5.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/32-E-1st-St-PHC-New-York-NY-10003/2091487634_zpid/
+305,131 5th Ave APT 602,New York,NY,10003,2995000.0,1800.0,3.0,3.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/131-5th-Ave-APT-602-New-York-NY-10003/2091351335_zpid/
+306,117 E 10th St APT 2,New York,NY,10003,2000000.0,970.0,1.0,1.0,92.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/117-E-10th-St-APT-2-New-York-NY-10003/244713786_zpid/
+307,80 E 10th St # 8,New York,NY,10003,8250000.0,2662.0,3.0,3.0,115.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/80-E-10th-St-8-New-York-NY-10003/2091494181_zpid/
+308,61 Irving Pl APT 3A,New York,NY,10003,4250000.0,,3.0,3.0,219.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/61-Irving-Pl-APT-3A-New-York-NY-10003/72516907_zpid/
+309,224 E 14th St APT 1,NEW YORK,NY,10003,4200000.0,1971.0,2.0,3.0,191.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/224-E-14th-St-APT-1-New-York-NY-10003/89329362_zpid/
+310,347 Bowery # 9/10,New York,NY,10003,7950000.0,2891.0,3.0,4.0,69.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/347-Bowery-9-10-New-York-NY-10003/2090804570_zpid/
+311,205 E 16th St APT 1E,New York,NY,10003,2395000.0,1708.0,3.0,4.0,72.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/205-E-16th-St-APT-1E-New-York-NY-10003/143106484_zpid/
+312,15 Union Sq W APT 4C,New York,NY,10003,2895000.0,1560.0,1.0,2.0,74.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/15-Union-Sq-W-APT-4C-New-York-NY-10003/2129050773_zpid/
+313,22 E 15th St # 5,New York,NY,10003,2950000.0,1560.0,1.0,2.0,151.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/22-E-15th-St-5-New-York-NY-10003/2091815309_zpid/
+314,1 5th Ave # 1617H,New York,NY,10003,4950000.0,,2.0,3.0,37.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/1-5th-Ave-1617H-New-York-NY-10003/244748118_zpid/
+315,215 E 19th St # 6C,New York,NY,10003,4580000.0,2109.0,3.0,4.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/215-E-19th-St-6C-New-York-NY-10003/2090262179_zpid/
+316,215 E 19th St # 9G,New York,NY,10003,4695000.0,2054.0,3.0,4.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/215-E-19th-St-9G-New-York-NY-10003/2090262178_zpid/
+317,21 E 12th St # 7A,New York,NY,10003,4175000.0,1478.0,2.0,3.0,112.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/21-E-12th-St-7A-New-York-NY-10003/2097564327_zpid/
+318,21 E 12th St # 9C,New York,NY,10003,5250000.0,2028.0,2.0,3.0,100.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/21-E-12th-St-9C-New-York-NY-10003/2094140901_zpid/
+319,80 E 10th St # 6,New York,NY,10003,7850000.0,3304.0,4.0,4.0,239.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/80-E-10th-St-6-New-York-NY-10003/2092746971_zpid/
+320,44 E 12th St # 2BC,New York,NY,10003,2545000.0,1300.0,3.0,2.0,79.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/44-E-12th-St-2BC-New-York-NY-10003/2090952509_zpid/
+321,1 Irving Pl APT U8A,NEW YORK,NY,10003,2500000.0,1350.0,2.0,2.0,79.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1-Irving-Pl-APT-U8A-New-York-NY-10003/31506065_zpid/
+322,39 5th Ave # 11A,New York,NY,10003,1795000.0,,1.0,1.0,185.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/39-5th-Ave-11A-New-York-NY-10003/2092134819_zpid/
+323,32 E 1st St # 5C,New York,NY,10003,3885000.0,1511.0,3.0,3.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/32-E-1st-St-5C-New-York-NY-10003/2090836010_zpid/
+324,305 2nd Ave APT 542,NEW YORK,NY,10003,3825000.0,2048.0,3.0,3.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/305-2nd-Ave-APT-542-New-York-NY-10003/63866698_zpid/
+325,220 E 20th St # 5,New York,NY,10003,7245000.0,3378.0,4.0,5.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/220-E-20th-St-5-New-York-NY-10003/2097115798_zpid/
+326,200 E 16th St APT 3C,New York,NY,10003,440000.0,500.0,0.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/200-E-16th-St-APT-3C-New-York-NY-10003/244691197_zpid/
+327,215 E 19th St # 16A,New York,NY,10003,9385000.0,3188.0,3.0,4.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/215-E-19th-St-16A-New-York-NY-10003/2092558332_zpid/
+328,60 E 9th St APT 431,New York,NY,10003,455000.0,,0.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/60-E-9th-St-APT-431-New-York-NY-10003/244852814_zpid/
+329,355 E 19th St # TH,New York,NY,10003,3700000.0,2663.0,3.0,3.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/355-E-19th-St-TH-New-York-NY-10003/2091479324_zpid/
+330,25 5th Ave APT 4F,NEW YORK,NY,10003,2745000.0,988.0,2.0,1.0,35.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/25-5th-Ave-APT-4F-New-York-NY-10003/89334607_zpid/
+331,230 E 20th St # 44,New York,NY,10003,2275000.0,995.0,2.0,2.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/230-E-20th-St-44-New-York-NY-10003/2094882488_zpid/
+332,240 Park Ave S APT 8B,NEW YORK,NY,10003,4000000.0,2139.0,3.0,4.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/240-Park-Ave-S-APT-8B-New-York-NY-10003/97501932_zpid/
+333,8 Union Sq S # 6B,NEW YORK,NY,10003,2775000.0,1450.0,2.0,2.0,57.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/8-Union-Sq-S-6B-New-York-NY-10003/97496873_zpid/
+334,215 E 19th St # 12B,New York,NY,10003,4270000.0,1804.0,2.0,3.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/215-E-19th-St-12B-New-York-NY-10003/2092558350_zpid/
+335,225 E 19th St # 104,New York,NY,10003,3390000.0,1647.0,3.0,2.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/225-E-19th-St-104-New-York-NY-10003/2092558341_zpid/
+336,225 E 19th St # 206,New York,NY,10003,2830000.0,1393.0,2.0,3.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/225-E-19th-St-206-New-York-NY-10003/2090184717_zpid/
+337,215 E 19th St # 6B,New York,NY,10003,3300000.0,1520.0,2.0,3.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/215-E-19th-St-6B-New-York-NY-10003/2090262180_zpid/
+338,215 E 19th St # 3A,New York,NY,10003,2395000.0,1325.0,1.0,2.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/215-E-19th-St-3A-New-York-NY-10003/2090262181_zpid/
+339,105 E 19th St # PENTHOUSEA,New York,NY,10003,2790000.0,,3.0,2.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/105-E-19th-St-PENTHOUSEA-New-York-NY-10003/2091250264_zpid/
+340,60 E 8th St APT 32A,New York,NY,10003,1599000.0,445151.0,1.0,1.0,,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/60-E-8th-St-APT-32A-New-York-NY-10003/244701917_zpid/
+341,11 5th Ave # 15OP,New York,NY,10003,4999000.0,2200.0,3.0,3.0,43.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/11-5th-Ave-15OP-New-York-NY-10003/72513163_zpid/
+342,28 E 10th St APT 2H,New York,NY,10003,2995000.0,1334.0,1.0,2.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/28-E-10th-St-APT-2H-New-York-NY-10003/97527588_zpid/
+343,39 E 20th St FL 9,New York,NY,10003,3200000.0,2000.0,2.0,2.0,276.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/39-E-20th-St-FL-9-New-York-NY-10003/2093195793_zpid/
+344,28 E 10th St APT 11D,NEW YORK,NY,10003,3575000.0,1093.0,2.0,2.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/28-E-10th-St-APT-11D-New-York-NY-10003/96756512_zpid/
+345,70 E 10th St APT 14-S,New York,NY,10003,2695000.0,1500.0,2.0,2.0,67.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/70-E-10th-St-APT-14-S-New-York-NY-10003/244803012_zpid/
+346,116 University Pl APT 4,New York,NY,10003,7475000.0,3056.0,4.0,4.0,219.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/116-University-Pl-APT-4-New-York-NY-10003/2093964973_zpid/
+347,116 University Pl APT 2,New York,NY,10003,7200000.0,3056.0,4.0,4.0,219.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/116-University-Pl-APT-2-New-York-NY-10003/2093964971_zpid/
+348,60 E 9th St APT 331,New York,NY,10003,469000.0,,0.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/60-E-9th-St-APT-331-New-York-NY-10003/244755455_zpid/
+349,115 4th Ave APT 7J,NEW YORK,NY,10003,2650000.0,1200.0,2.0,2.0,67.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/115-4th-Ave-APT-7J-New-York-NY-10003/31498387_zpid/
+350,70 E 10th St APT 14M,New York,NY,10003,2695000.0,,2.0,2.0,49.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/70-E-10th-St-APT-14M-New-York-NY-10003/244842611_zpid/
+351,112 E 19th St APT 10F,New York,NY,10003,3100000.0,1912.0,3.0,2.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/112-E-19th-St-APT-10F-New-York-NY-10003/244714199_zpid/
+352,112 E 19th St APT 10F,New York,NY,10003,3100000.0,1912.0,2.0,2.0,294.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/112-E-19th-St-APT-10F-New-York-NY-10003/2098955598_zpid/
+353,21 E 12th St # 5D,New York,NY,10003,2550000.0,1006.0,1.0,2.0,359.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/21-E-12th-St-5D-New-York-NY-10003/2094216313_zpid/
+354,16 E 17th St # 5FLR,New York,NY,10003,3250000.0,,2.0,3.0,252.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/16-E-17th-St-5FLR-New-York-NY-10003/2093744393_zpid/
+355,215 E 19th St # 3E,New York,NY,10003,2095000.0,1208.0,1.0,2.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/215-E-19th-St-3E-New-York-NY-10003/2090184718_zpid/
+356,21 E 12th St # 5C,New York,NY,10003,2650000.0,1033.0,1.0,2.0,359.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/21-E-12th-St-5C-New-York-NY-10003/2094216314_zpid/
+357,70 E 10th St APT 1C,New York,NY,10003,999999.0,1100.0,1.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/70-E-10th-St-APT-1C-New-York-NY-10003/2095461218_zpid/
+358,18 E 12th St APT 8D,New York,NY,10003,1850000.0,1257.0,1.0,1.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/18-E-12th-St-APT-8D-New-York-NY-10003/2097948927_zpid/
+359,133 2nd Ave APT 1,NEW YORK,NY,10003,2345000.0,1935.0,2.0,2.0,193.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/133-2nd-Ave-APT-1-New-York-NY-10003/89335295_zpid/
+360,32 E 1st St # 2D,New York,NY,10003,2550000.0,1083.0,2.0,2.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/32-E-1st-St-2D-New-York-NY-10003/2090836013_zpid/
+361,222 Park Ave S APT 3D,New York,NY,10003,2390000.0,1300.0,2.0,2.0,92.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/222-Park-Ave-S-APT-3D-New-York-NY-10003/244774859_zpid/
+362,215 E 19th St # 10E,New York,NY,10003,5580000.0,2519.0,3.0,4.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/215-E-19th-St-10E-New-York-NY-10003/2092558352_zpid/
+363,16 E 17th St # 5FL,New York,NY,10003,3250000.0,2000.0,2.0,3.0,247.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/16-E-17th-St-5FL-New-York-NY-10003/2101674659_zpid/
+364,116 University Pl APT 3,New York,NY,10003,7350000.0,3056.0,3.0,4.0,339.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/116-University-Pl-APT-3-New-York-NY-10003/2093964972_zpid/
+365,28 E 10th St APT 4B,NEW YORK,NY,10003,2895000.0,1375.0,2.0,1.5,596.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/28-E-10th-St-APT-4B-New-York-NY-10003/96756472_zpid/
+366,305 2nd Ave APT 305,New York,NY,10003,1825000.0,1236.0,1.0,2.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/305-2nd-Ave-APT-305-New-York-NY-10003/2133199664_zpid/
+367,230 E 20th St # 43,New York,NY,10003,2345000.0,1127.0,2.0,2.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/230-E-20th-St-43-New-York-NY-10003/2090283576_zpid/
+368,305 2nd Ave APT 345,NEW YORK,NY,10003,1795000.0,1308.0,2.0,1.0,72.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/305-2nd-Ave-APT-345-New-York-NY-10003/63866657_zpid/
+369,30 E 9th St APT 5G,New York,NY,10003,1850000.0,,2.0,2.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/30-E-9th-St-APT-5G-New-York-NY-10003/244835703_zpid/
+370,230 E 20th St # 31,New York,NY,10003,2250000.0,1083.0,2.0,2.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/230-E-20th-St-31-New-York-NY-10003/2090283575_zpid/
+371,110 3rd Ave APT 8C,NEW YORK,NY,10003,2995000.0,,,,,House For Sale,http://www.zillow.com/homes/for_sale//homedetails/110-3rd-Ave-APT-8C-New-York-NY-10003/97512435_zpid/
+372,215 E 19th St # 4K,New York,NY,10003,2155000.0,1211.0,1.0,2.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/215-E-19th-St-4K-New-York-NY-10003/2092558335_zpid/
+373,51 Saint Marks Pl APT 10,New York,NY,10003,970000.0,840.0,1.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/51-Saint-Marks-Pl-APT-10-New-York-NY-10003/244697169_zpid/
+374,54 E 8th St APT 2L,New York,NY,10003,435000.0,,0.0,1.0,35.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/54-E-8th-St-APT-2L-New-York-NY-10003/72512572_zpid/
+375,70 E 10th St APT 4H,New York,NY,10003,1450000.0,1000.0,2.0,2.0,43.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/70-E-10th-St-APT-4H-New-York-NY-10003/113975924_zpid/
+376,69 5th Ave APT 6C,New York,NY,10003,999000.0,,1.0,2.0,,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/69-5th-Ave-APT-6C-New-York-NY-10003/244855917_zpid/
+377,69 5th Ave APT 8G,New York,NY,10003,2450000.0,,2.0,2.0,31.0,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/69-5th-Ave-APT-8G-New-York-NY-10003/244867984_zpid/
+378,67 E 11th St APT 605,New York,NY,10003,849000.0,840.0,1.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/67-E-11th-St-APT-605-New-York-NY-10003/244833976_zpid/
+379,201 E 17th St APT 2E,New York,NY,10003,785000.0,,1.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/201-E-17th-St-APT-2E-New-York-NY-10003/114443176_zpid/
+380,69 5th Ave APT 4D,New York,NY,10003,1250000.0,1100.0,1.0,2.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/69-5th-Ave-APT-4D-New-York-NY-10003/2091475831_zpid/
+381,41 5th Ave APT 16F,New York,NY,10003,1525000.0,95117.0,1.0,2.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/41-5th-Ave-APT-16F-New-York-NY-10003/244759800_zpid/
+382,80 2nd Ave APT 3,New York,NY,10003,1999999.0,1450.0,2.0,2.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/80-2nd-Ave-APT-3-New-York-NY-10003/2091189200_zpid/
+383,145 E 15th St APT 8H,New York,NY,10003,675000.0,,1.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/145-E-15th-St-APT-8H-New-York-NY-10003/244880390_zpid/
+384,123 3rd Ave APT 6A,NEW YORK,NY,10003,2100000.0,1166.0,2.0,2.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/123-3rd-Ave-APT-6A-New-York-NY-10003/112088642_zpid/
+385,40-50 E 10th St # 3K,Manhattan,NY,10003,2500000.0,,2.0,2.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/40-50-E-10th-St-3K-Manhattan-NY-10003/2092526222_zpid/
+386,240 E 10th St APT 4B,NEW YORK,NY,10003,2080000.0,1145.0,2.0,2.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/240-E-10th-St-APT-4B-New-York-NY-10003/61965984_zpid/
+387,889 Broadway APT 2C,New York,NY,10003,1950000.0,1400.0,1.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/889-Broadway-APT-2C-New-York-NY-10003/244836007_zpid/
+388,41 5th Ave # 4DE,New York,NY,10003,3185000.0,,3.0,2.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/41-5th-Ave-4DE-New-York-NY-10003/2092040058_zpid/
+389,305 2nd Ave APT 721,NEW YORK,NY,10003,1845000.0,1054.0,2.0,2.0,72.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/305-2nd-Ave-APT-721-New-York-NY-10003/63866719_zpid/
+390,20 E 9th St # 2N,New York,NY,10003,715000.0,,0.0,1.0,92.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-E-9th-St-2N-New-York-NY-10003/244889933_zpid/
+391,60 E 9th St APT 521,New York,NY,10003,520000.0,500.0,0.0,1.0,52.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/60-E-9th-St-APT-521-New-York-NY-10003/244719958_zpid/
+392,110 3rd Ave APT 11A,NEW YORK,NY,10003,2295000.0,1165.0,2.0,2.0,60.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/110-3rd-Ave-APT-11A-New-York-NY-10003/97501451_zpid/
+393,60 E 9th St APT 324,New York,NY,10003,569000.0,,0.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/60-E-9th-St-APT-324-New-York-NY-10003/244872598_zpid/
+394,305 2nd Ave APT 307,NEW YORK,NY,10003,1670000.0,1276.0,1.0,2.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/305-2nd-Ave-APT-307-New-York-NY-10003/63866620_zpid/
+395,230 E 20th St # 54,New York,NY,10003,2300000.0,995.0,2.0,2.0,224.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/230-E-20th-St-54-New-York-NY-10003/2092558343_zpid/
+396,115 E 9th St APT 17N,New York,NY,10003,549000.0,400.0,0.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/115-E-9th-St-APT-17N-New-York-NY-10003/72512793_zpid/
+397,133 E 15th St APT 3A,New York,NY,10003,663888.0,550.0,1.0,2.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/133-E-15th-St-APT-3A-New-York-NY-10003/119917917_zpid/
+398,303 Mercer St APT A503,New York,NY,10003,2695000.0,,2.0,2.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/303-Mercer-St-APT-A503-New-York-NY-10003/79494206_zpid/
+399,69 5th Ave APT 10D,New York,NY,10003,1975000.0,,2.0,2.0,59.0,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/69-5th-Ave-APT-10D-New-York-NY-10003/244890195_zpid/
+400,7 E 14th St APT 901,New York,NY,10003,825000.0,650.0,1.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/7-E-14th-St-APT-901-New-York-NY-10003/72538309_zpid/
+401,20 E 9th St UNIT 3-G,New York,NY,10003,699000.0,780.0,0.0,1.0,92.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-E-9th-St-UNIT-3-G-New-York-NY-10003/244903736_zpid/
+402,11 5th Ave # 17C,New York,NY,10003,3995000.0,,2.0,2.0,42.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/11-5th-Ave-17C-New-York-NY-10003/120560694_zpid/
+403,230 E 15th St # 9MN,New York,NY,10003,1670000.0,1320.0,2.0,2.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/230-E-15th-St-9MN-New-York-NY-10003/2100353031_zpid/
+404,205 E 16th St APT 4B,New York,NY,10003,1995000.0,1305.0,1.0,2.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/205-E-16th-St-APT-4B-New-York-NY-10003/80005907_zpid/
+405,225 E 19th St # 605,New York,NY,10003,1555000.0,696.0,1.0,1.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/225-E-19th-St-605-New-York-NY-10003/2092558334_zpid/
+406,225 E 19th St # 201,New York,NY,10003,1625000.0,830.0,1.0,1.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/225-E-19th-St-201-New-York-NY-10003/2090268953_zpid/
+407,77 E 12th St APT 17D,New York,NY,10003,825000.0,,1.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/77-E-12th-St-APT-17D-New-York-NY-10003/72513132_zpid/
+408,63 E 9th St APT 10A,New York,NY,10003,1150000.0,209785.0,1.0,1.0,,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/63-E-9th-St-APT-10A-New-York-NY-10003/244734935_zpid/
+409,142 E 16th St # 6AB,New York,NY,10003,1990000.0,1650.0,2.0,2.0,36.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/142-E-16th-St-6AB-New-York-NY-10003/72516846_zpid/
+410,80 2nd Avenue # FL 3RD,New York,NY,10003,2200000.0,,2.0,2.0,,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/80-2nd-Avenue-FL-3RD-New-York-NY-10003/2090813984_zpid/
+411,60 E 8th St APT 22N,New York,NY,10003,1625000.0,,2.0,1.0,80.0,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/60-E-8th-St-APT-22N-New-York-NY-10003/244729260_zpid/
+412,26 E 10th St APT 6F,New York,NY,10003,1635000.0,850.0,1.0,1.0,43.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/26-E-10th-St-APT-6F-New-York-NY-10003/121306415_zpid/
+413,60 E 8th St APT 23F,New York,NY,10003,2640000.0,1120.0,2.0,2.0,,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/60-E-8th-St-APT-23F-New-York-NY-10003/244860718_zpid/
+414,142 E 16th St APT 20B,New York,NY,10003,2145000.0,1370.0,2.0,2.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/142-E-16th-St-APT-20B-New-York-NY-10003/79496707_zpid/
+415,70 E 10th St APT 5E,New York,NY,10003,2495000.0,,3.0,2.0,34.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/70-E-10th-St-APT-5E-New-York-NY-10003/121326623_zpid/
+416,77 E 12th St # 16EF,New York,NY,10003,2325000.0,1450.0,3.0,2.0,33.0,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/77-E-12th-St-16EF-New-York-NY-10003/122074480_zpid/
+417,305 2nd Ave APT 707,NEW YORK,NY,10003,1649000.0,1168.0,1.0,1.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/305-2nd-Ave-APT-707-New-York-NY-10003/63866705_zpid/
+418,200 E 16th St APT 2G,New York,NY,10003,495000.0,,0.0,1.0,158.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/200-E-16th-St-APT-2G-New-York-NY-10003/72517903_zpid/
+419,23 E 10th St APT 4E,New York,NY,10003,825000.0,,0.0,1.0,67.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/23-E-10th-St-APT-4E-New-York-NY-10003/244824285_zpid/
+420,32 E 1st St # 6E,New York,NY,10003,1300000.0,484.0,1.0,1.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/32-E-1st-St-6E-New-York-NY-10003/2090836011_zpid/
+421,63 E 9th St APT 5D,New York,NY,10003,649000.0,,0.0,1.0,39.0,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/63-E-9th-St-APT-5D-New-York-NY-10003/244873332_zpid/
+422,63 E 9th St APT 8O,New York,NY,10003,1875000.0,,2.0,2.0,,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/63-E-9th-St-APT-8O-New-York-NY-10003/244778549_zpid/
+423,205 3rd Ave APT 17E,New York,NY,10003,1885000.0,1350.0,2.0,2.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/205-3rd-Ave-APT-17E-New-York-NY-10003/82391597_zpid/
+424,1 5th Ave APT 6B,New York,NY,10003,2550000.0,,2.0,2.0,32.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/1-5th-Ave-APT-6B-New-York-NY-10003/114416541_zpid/
+425,67 E 11th St APT 302,New York,NY,10003,1695000.0,,1.0,2.0,43.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/67-E-11th-St-APT-302-New-York-NY-10003/72513050_zpid/
+426,305 2nd Ave APT 723,NEW YORK,NY,10003,1635000.0,1167.0,2.0,1.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/305-2nd-Ave-APT-723-New-York-NY-10003/63866721_zpid/
+427,70 E 10th St APT 4V,New York,NY,10003,2100000.0,1500.0,2.0,2.0,43.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/70-E-10th-St-APT-4V-New-York-NY-10003/72512714_zpid/
+428,305 2nd Ave APT 516,NEW YORK,NY,10003,1625000.0,1170.0,1.0,1.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/305-2nd-Ave-APT-516-New-York-NY-10003/63866674_zpid/
+429,215 E 19th St # 14F,New York,NY,10003,1425000.0,686.0,0.0,1.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/215-E-19th-St-14F-New-York-NY-10003/2092558348_zpid/
+430,130 E 18th St APT 8M,New York,NY,10003,685000.0,,0.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/130-E-18th-St-APT-8M-New-York-NY-10003/244876805_zpid/
+431,41 5th Ave APT 8F,New York,NY,10003,1488888.0,,1.0,1.0,92.0,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/41-5th-Ave-APT-8F-New-York-NY-10003/244714012_zpid/
+432,55 E 9th St APT 4D,New York,NY,10003,925000.0,775.0,1.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/55-E-9th-St-APT-4D-New-York-NY-10003/2092164263_zpid/
+433,40 E 9th St APT 8B,New York,NY,10003,1295000.0,,1.0,1.0,78.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/40-E-9th-St-APT-8B-New-York-NY-10003/244778945_zpid/
+434,808 Broadway APT 5K,New York,NY,10003,1295000.0,900.0,1.0,1.0,31.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/808-Broadway-APT-5K-New-York-NY-10003/244746889_zpid/
+435,11 5th Ave # 10V,New York,NY,10003,1455000.0,,1.0,1.0,74.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/11-5th-Ave-10V-New-York-NY-10003/244778573_zpid/
+436,70 E 10th St APT 18F,New York,NY,10003,2840000.0,1500.0,2.0,2.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/70-E-10th-St-APT-18F-New-York-NY-10003/79494372_zpid/
+437,222 Park Ave S APT 3D,New York,NY,10003,2390000.0,1300.0,2.0,2.0,115.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/222-Park-Ave-S-APT-3D-New-York-NY-10003/72516401_zpid/
+438,63 E 9th St APT 12O,New York,NY,10003,1995000.0,,2.0,2.0,,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/63-E-9th-St-APT-12O-New-York-NY-10003/244725210_zpid/
+439,7 E 14th St APT 21G,New York,NY,10003,2195000.0,1350.0,2.0,2.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/7-E-14th-St-APT-21G-New-York-NY-10003/120109484_zpid/
+440,23 Waverly Pl APT 4L,New York,NY,10003,679000.0,500.0,0.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/23-Waverly-Pl-APT-4L-New-York-NY-10003/244702821_zpid/
+441,39 5th Ave # 2C,New York,NY,10003,1595000.0,,1.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/39-5th-Ave-2C-New-York-NY-10003/72513236_zpid/
+442,1 5th Ave APT 10D,New York,NY,10003,3250000.0,,2.0,2.0,43.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/1-5th-Ave-APT-10D-New-York-NY-10003/91772461_zpid/
+443,40-50 E 10th St # 4A,Manhattan,NY,10003,1575000.0,,1.0,2.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/40-50-E-10th-St-4A-Manhattan-NY-10003/2091568993_zpid/
+444,305 2nd Ave APT 718,NEW YORK,NY,10003,1425000.0,990.0,1.0,1.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/305-2nd-Ave-APT-718-New-York-NY-10003/63866716_zpid/
+445,7 E 14th St APT 1406,New York,NY,10003,2249000.0,,2.0,2.0,43.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/7-E-14th-St-APT-1406-New-York-NY-10003/79496431_zpid/
+446,32 E 1st St # 3B,New York,NY,10003,1475000.0,582.0,1.0,1.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/32-E-1st-St-3B-New-York-NY-10003/2092746956_zpid/
+447,60 E 9th St APT 328,New York,NY,10003,999000.0,,1.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/60-E-9th-St-APT-328-New-York-NY-10003/244862203_zpid/
+448,130 E 18th St APT 9V,New York,NY,10003,948000.0,750.0,1.0,1.0,92.0,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/130-E-18th-St-APT-9V-New-York-NY-10003/244714140_zpid/
+449,43 E 10th St APT 5H,New York,NY,10003,649000.0,,0.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/43-E-10th-St-APT-5H-New-York-NY-10003/244722371_zpid/
+450,115 E 9th St APT 6M,New York,NY,10003,575000.0,400.0,0.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/115-E-9th-St-APT-6M-New-York-NY-10003/115826249_zpid/
+451,201 E 15th St APT 4A,New York,NY,10003,795000.0,,1.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/201-E-15th-St-APT-4A-New-York-NY-10003/244822938_zpid/
+452,115 E 9th St APT 2R,New York,NY,10003,985000.0,,1.0,1.0,43.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/115-E-9th-St-APT-2R-New-York-NY-10003/94883464_zpid/
+453,239 E 10th St # PHA,New York,NY,10003,1045000.0,750.0,1.0,1.0,263.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/239-E-10th-St-PHA-New-York-NY-10003/2093045940_zpid/
+454,215 E 19th St # 14F,New York,NY,10003,1425000.0,686.0,0.0,1.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/215-E-19th-St-14F-New-York-NY-10003/2092558348_zpid/
+455,130 E 18th St APT 8M,New York,NY,10003,685000.0,,0.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/130-E-18th-St-APT-8M-New-York-NY-10003/244876805_zpid/
+456,41 5th Ave APT 8F,New York,NY,10003,1488888.0,,1.0,1.0,92.0,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/41-5th-Ave-APT-8F-New-York-NY-10003/244714012_zpid/
+457,55 E 9th St APT 4D,New York,NY,10003,925000.0,775.0,1.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/55-E-9th-St-APT-4D-New-York-NY-10003/2092164263_zpid/
+458,40 E 9th St APT 8B,New York,NY,10003,1295000.0,,1.0,1.0,78.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/40-E-9th-St-APT-8B-New-York-NY-10003/244778945_zpid/
+459,808 Broadway APT 5K,New York,NY,10003,1295000.0,900.0,1.0,1.0,31.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/808-Broadway-APT-5K-New-York-NY-10003/244746889_zpid/
+460,11 5th Ave # 10V,New York,NY,10003,1455000.0,,1.0,1.0,74.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/11-5th-Ave-10V-New-York-NY-10003/244778573_zpid/
+461,70 E 10th St APT 18F,New York,NY,10003,2840000.0,1500.0,2.0,2.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/70-E-10th-St-APT-18F-New-York-NY-10003/79494372_zpid/
+462,222 Park Ave S APT 3D,New York,NY,10003,2390000.0,1300.0,2.0,2.0,115.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/222-Park-Ave-S-APT-3D-New-York-NY-10003/72516401_zpid/
+463,63 E 9th St APT 12O,New York,NY,10003,1995000.0,,2.0,2.0,,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/63-E-9th-St-APT-12O-New-York-NY-10003/244725210_zpid/
+464,7 E 14th St APT 21G,New York,NY,10003,2195000.0,1350.0,2.0,2.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/7-E-14th-St-APT-21G-New-York-NY-10003/120109484_zpid/
+465,23 Waverly Pl APT 4L,New York,NY,10003,679000.0,500.0,0.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/23-Waverly-Pl-APT-4L-New-York-NY-10003/244702821_zpid/
+466,39 5th Ave # 2C,New York,NY,10003,1595000.0,,1.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/39-5th-Ave-2C-New-York-NY-10003/72513236_zpid/
+467,1 5th Ave APT 10D,New York,NY,10003,3250000.0,,2.0,2.0,43.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/1-5th-Ave-APT-10D-New-York-NY-10003/91772461_zpid/
+468,40-50 E 10th St # 4A,Manhattan,NY,10003,1575000.0,,1.0,2.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/40-50-E-10th-St-4A-Manhattan-NY-10003/2091568993_zpid/
+469,305 2nd Ave APT 718,NEW YORK,NY,10003,1425000.0,990.0,1.0,1.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/305-2nd-Ave-APT-718-New-York-NY-10003/63866716_zpid/
+470,7 E 14th St APT 1406,New York,NY,10003,2249000.0,,2.0,2.0,43.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/7-E-14th-St-APT-1406-New-York-NY-10003/79496431_zpid/
+471,32 E 1st St # 3B,New York,NY,10003,1475000.0,582.0,1.0,1.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/32-E-1st-St-3B-New-York-NY-10003/2092746956_zpid/
+472,60 E 9th St APT 328,New York,NY,10003,999000.0,,1.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/60-E-9th-St-APT-328-New-York-NY-10003/244862203_zpid/
+473,130 E 18th St APT 9V,New York,NY,10003,948000.0,750.0,1.0,1.0,92.0,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/130-E-18th-St-APT-9V-New-York-NY-10003/244714140_zpid/
+474,43 E 10th St APT 5H,New York,NY,10003,649000.0,,0.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/43-E-10th-St-APT-5H-New-York-NY-10003/244722371_zpid/
+475,115 E 9th St APT 6M,New York,NY,10003,575000.0,400.0,0.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/115-E-9th-St-APT-6M-New-York-NY-10003/115826249_zpid/
+476,201 E 15th St APT 4A,New York,NY,10003,795000.0,,1.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/201-E-15th-St-APT-4A-New-York-NY-10003/244822938_zpid/
+477,115 E 9th St APT 2R,New York,NY,10003,985000.0,,1.0,1.0,43.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/115-E-9th-St-APT-2R-New-York-NY-10003/94883464_zpid/
+478,239 E 10th St # PHA,New York,NY,10003,1045000.0,750.0,1.0,1.0,263.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/239-E-10th-St-PHA-New-York-NY-10003/2093045940_zpid/
+479,333 E 14th St APT 8D,New York,NY,10003,895000.0,,1.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/333-E-14th-St-APT-8D-New-York-NY-10003/72518791_zpid/
+480,230 E 15th St APT 7M,New York,NY,10003,899000.0,,1.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/230-E-15th-St-APT-7M-New-York-NY-10003/244846056_zpid/
+481,69 5th Ave APT 6G,New York,NY,10003,2150000.0,,2.0,2.0,59.0,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/69-5th-Ave-APT-6G-New-York-NY-10003/244759830_zpid/
+482,69 5th Ave APT 9D,New York,NY,10003,2450000.0,,2.0,2.0,,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/69-5th-Ave-APT-9D-New-York-NY-10003/244861362_zpid/
+483,44 E 12th St APT 2B,New York,NY,10003,1250000.0,700.0,1.0,1.0,72.0,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/44-E-12th-St-APT-2B-New-York-NY-10003/143088480_zpid/
+484,20 E 9th St # 7N,New York,NY,10003,799000.0,,0.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/20-E-9th-St-7N-New-York-NY-10003/89556387_zpid/
+485,40 E 9th St APT 5G,New York,NY,10003,1345000.0,,1.0,1.0,59.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/40-E-9th-St-APT-5G-New-York-NY-10003/244697650_zpid/
+486,70 E 10th St APT 10P,New York,NY,10003,1245000.0,1000.0,1.0,1.0,92.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/70-E-10th-St-APT-10P-New-York-NY-10003/244725426_zpid/
+487,60 E 9th St APT 428,New York,NY,10003,995000.0,850.0,1.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/60-E-9th-St-APT-428-New-York-NY-10003/244839734_zpid/
+488,67 E 11th St APT 520,New York,NY,10003,895000.0,,1.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/67-E-11th-St-APT-520-New-York-NY-10003/244725287_zpid/
+489,1 Irving Pl APT G20H,NEW YORK,NY,10003,830000.0,459.0,0.0,1.0,,Condo For Sale,http://www.zillow.com/homes/for_sale//homedetails/1-Irving-Pl-APT-G20H-New-York-NY-10003/31506043_zpid/
+490,54 E 8th St # 2,New York,NY,10003,618000.0,,0.0,1.0,53.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/54-E-8th-St-2-New-York-NY-10003/2090566982_zpid/
+491,205 3rd Ave APT 7A,New York,NY,10003,675000.0,650.0,1.0,1.0,43.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/205-3rd-Ave-APT-7A-New-York-NY-10003/72517999_zpid/
+492,115 E 9th St APT 7N,New York,NY,10003,535000.0,,0.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/115-E-9th-St-APT-7N-New-York-NY-10003/72512771_zpid/
+493,60 E 8th St APT 32P,New York,NY,10003,1325000.0,,1.0,1.0,,Apartment For Sale,http://www.zillow.com/homes/for_sale//homedetails/60-E-8th-St-APT-32P-New-York-NY-10003/244864108_zpid/
+494,23 Waverly Pl APT 4L,New York,NY,10003,679000.0,500.0,0.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/23-Waverly-Pl-APT-4L-New-York-NY-10003/89139342_zpid/
+495,130 E 18th St APT 6G,New York,NY,10003,975000.0,,1.0,1.0,35.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/130-E-18th-St-APT-6G-New-York-NY-10003/72516871_zpid/
+496,130 E 18th St APT 9V,New York,NY,10003,925000.0,750.0,1.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/130-E-18th-St-APT-9V-New-York-NY-10003/82582121_zpid/
+497,130 E 18th St APT 8U,New York,NY,10003,899000.0,750.0,1.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/130-E-18th-St-APT-8U-New-York-NY-10003/72516880_zpid/
+498,7 E 14th St APT 1217,New York,NY,10003,1035000.0,,1.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/7-E-14th-St-APT-1217-New-York-NY-10003/72516353_zpid/
+499,7 E 14th St APT 709,New York,NY,10003,1250000.0,,1.0,1.0,32.0,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/7-E-14th-St-APT-709-New-York-NY-10003/119907779_zpid/
+500,130 E 18th St APT 8M,New York,NY,10003,685000.0,,0.0,1.0,,Co-op For Sale,http://www.zillow.com/homes/for_sale//homedetails/130-E-18th-St-APT-8M-New-York-NY-10003/92693011_zpid/
+501,54 E 8th St APT 4A,New York,NY,10003,625000.0,700.0,1.0,1.0,309.0,For Sale by Owner,http://www.zillow.com/homes/for_sale//homedetails/54-E-8th-St-APT-4A-New-York-NY-10003/2093614226_zpid/
+502,Irving Pl APT P20F,NEW YORK,NY,10003,,785.0,,,57.0,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/247194143_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"
+503,E 11th St APT 5D,NEW YORK,NY,10003,,896.0,,,45.0,Pre-Foreclosure,"http://www.zillow.com/homes/for_sale/247194154_zpid/any_days/globalrelevanceex_sort/29.759534,-95.335321,29.675003,-95.502863_rect/12_zm/"

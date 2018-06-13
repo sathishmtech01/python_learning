@@ -1,0 +1,6 @@
+Flask-PyMongo==0.5.1
+Flask-RESTful==0.3.6
+flask-restplus==0.10.1
+boto3==1.5.34
+plivo==4.1.0
+mongoengine
