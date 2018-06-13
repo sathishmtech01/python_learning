@@ -35,7 +35,18 @@
 8. High performance merging and joining of data.
 9. Time Series functionality.
 
-http://pandas.pydata.org/pandas-docs/stable/10min.html
+Ref : http://pandas.pydata.org/pandas-docs/stable/10min.html
 
-**concepts**
+**pandas dataframe** 
 1. object creation
+2. viewing data
+3. selection
+4. missing data
+5. operations
+6. merge
+7. grouping
+8. reshaping
+9. timeseries
+10. categoricals
+11. plotting
+12. getting data io
