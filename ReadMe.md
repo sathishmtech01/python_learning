@@ -50,3 +50,6 @@ Ref : http://pandas.pydata.org/pandas-docs/stable/10min.html
 10. categoricals
 11. plotting
 12. getting data io
+
+**Visualization:**
+**matplotlib**
