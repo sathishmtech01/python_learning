@@ -17,11 +17,11 @@ dates = pd.date_range('20130101',periods=6)
 df = pd.DataFrame(np.random.randn(6,4), index=dates, columns=list('ABCD'))
 print(df)
 #df["E"]="H"
-# 0-column, 1- row
+# 0-column, 1- row - vertical axis
 # stats
 print(df.mean())
 print(df.mean(0))
-# Same operation on the other axis:
+# Same operation on the other axis: 1- horizontal axis
 print(df.mean(1))
 
 s = pd.Series([1,3,5,np.nan,6,8], index=dates).shift(1)

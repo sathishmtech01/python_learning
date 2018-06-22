@@ -23,6 +23,14 @@ print(df["A"])
 # data[row_start_index:row_end_index]
 print(df[0:3])
 
+
+# Selction by label
+# selecing single column by giving column name
+# list in python
+print(list(df["A"].values))
+# numpy array
+print(df["A"].values)
+
 # selection by label
 #
 print(df.loc[dates[0]])
