@@ -56,13 +56,13 @@ Ref : http://pandas.pydata.org/pandas-docs/stable/10min.html
 **Visualization:**
 **matplotlib**
 
-
 1. basic plot
 2. plot and scatter plot
-3. create plot
-4. create subplot
-5. change size figure
-6. customized plot
-7. save plot png
-8. save plot pdf
-9. ggplot style
+3.bar plot
+4. create plot
+5. create subplot
+6. change size figure
+7. customized plot
+8. save plot png
+9. save plot pdf
+10. ggplot style
