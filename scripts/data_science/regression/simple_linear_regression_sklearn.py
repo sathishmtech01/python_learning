@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
 from sklearn.linear_model import LinearRegression
+from sklearn.linear_model import Ridge
 from sklearn.metrics import mean_squared_error
 
 # Reading Data
@@ -14,8 +15,12 @@ Y = data['Brain Weight(grams)'].values
 m = len(X)
 
 X = X.reshape((m, 1))
+#X = [x[0] for x in X1]
+print(X)
+#input()
 # Model Intialization
-reg = LinearRegression()
+reg = Ridge(alpha=0.05, normalize=True)
+reg = Ridge()
 # Data Fitting
 reg = reg.fit(X, Y)
 # Y Prediction
