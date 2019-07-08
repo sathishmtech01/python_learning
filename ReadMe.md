@@ -66,3 +66,13 @@ Ref : http://pandas.pydata.org/pandas-docs/stable/10min.html
 8. save plot png
 9. save plot pdf
 10. ggplot style
+
+
+**Khan Academy Courses:**
+
+1. Probability : https://www.youtube.com/watch?v=uzkc-qNVoOk&list=PLC58778F28211FA19
+2. Statistics : https://www.youtube.com/watch?v=uhxtUt_-GyM&list=PL1328115D3D8A2566
+3. Calculus : https://www.youtube.com/watch?v=EKvHQc3QEow&list=PL19E79A0638C8D449
+4. Linear Algebra : https://www.youtube.com/watch?v=xyAuNHPsq-g&list=PLFD0EB975BA0CC1E0
+5. Combitornics : https://www.youtube.com/watch?v=Z1zdkcwosD4&list=PLU5aQXLWR3_wDJi9fDQar3GQVfZD4SlbX
+6. Machine Learning : https://www.youtube.com/watch?v=rVviNyIR-fI&list=PLD0F06AA0D2E8FFBA&index=52
