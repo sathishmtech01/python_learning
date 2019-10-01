@@ -27,3 +27,18 @@ print(dir(age_list_10))
 age_list_10.append(20)
 print(age_list_10)
 
+score_list = [90,80,70,60]
+# Array : append functionality: I appends a value at the end of the array.
+score_list.append(60)
+print(score_list)
+
+print(dir(score_list))
+# Array functions : 'append', 'clear', 'copy', 'count', 'extend', 'index', 'insert', 'pop', 'remove', 'reverse', 'sort'
+# String
+# Float
+# Integer
+# Tuple
+# set
+# dictionary
+
+

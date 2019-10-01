@@ -1,6 +1,7 @@
 # Refer: http://visualgit.readthedocs.io/en/latest/pages/naming_convention.html
 
 Python Naming Conventions
+
 1. General
 
     Avoid using names that are too general or too wordy. Strike a good balance between the two.

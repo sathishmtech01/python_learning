@@ -25,5 +25,5 @@ print(information.items())
 print(information.keys())
 print(information.values())
 
-for value,key in information.items():
-    print(value,key)
+for key,value in information.items():
+    print(key,value)

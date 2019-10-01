@@ -6,18 +6,27 @@
 """
 
 # Functions with return
-
 # single return - specific data type format
-def add(a,b):
+def grade(score=500):
     """
 
-    :param a:
-    :param b:
+    :param score:
     :return:
     """
+    if score>400:
+        print("platinum","Grade A")
+        return "platinum","Grade A"
+    elif score>300 and score<=400:
+        return "gold","Grade B"
+    elif score>200 and score<=300:
+        return "silver","Grade C"
+    else:
+        return "bronze","Grade D"
 
-    c= a+b
-    return c
+grade_output = grade(500)
+print(grade_output)
+input()
+
 
 # multiple return - tuple format
 def multiple_return(a,b):

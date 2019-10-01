@@ -2,7 +2,7 @@
 # TODO: Note : myself: In set duplicates are removed
 set_A = {1,2,3,4,10,21,21,21}
 set_B = {10,4,3,2,1}
-
+print(set_A)
 # And or intersection operation
 print(set_A & set_B)
 

@@ -5,16 +5,34 @@
 
 """
 
+price_list = []
+# Initialization : 0 is like i=0
+i=0
+#print("Break Loop")
+# Condition : 100 is like i<100
+while(i<100):
+    price_list = price_list + [i]
+    # Incrementation : 1 is like i++
+    i = i + 1
+    # if (i==50):
+    #     print("Break")
+    #     break
+
+print(price_list)
+input()
+
 # For Loop
 price_list = []
 # range(0,100,1)
 # Initialization : 0 is like i=0
 # Condition : 100 is like i<100
 # Incrementation : 1 is like i++
-for i in range(0,100,1):
-    price_list = price_list + [i]
+for i in range(0,100,2):
+    print(i,j)
+    #price_list.append(i)
 
 print(price_list)
+input()
 
 
 price_list = []
