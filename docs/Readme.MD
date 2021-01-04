@@ -30,3 +30,7 @@ Gradient Boosted Trees With XGboost and scikit-learn `(not have)`
 others resouces, others writer but same theme :\
 14. Statistics and Machine Learning in Python, Edouard Duchesnay\
 15. Deep Learning & NLP Resources, Dragomir Radev\
+
+
+
+Machine Learning Cheatsheet.pdf -  Simple explanation of ML algorithms
