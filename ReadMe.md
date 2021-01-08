@@ -76,3 +76,49 @@ Ref : http://pandas.pydata.org/pandas-docs/stable/10min.html
 4. Linear Algebra : https://www.youtube.com/watch?v=xyAuNHPsq-g&list=PLFD0EB975BA0CC1E0
 5. Combitornics : https://www.youtube.com/watch?v=Z1zdkcwosD4&list=PLU5aQXLWR3_wDJi9fDQar3GQVfZD4SlbX
 6. Machine Learning : https://www.youtube.com/watch?v=rVviNyIR-fI&list=PLD0F06AA0D2E8FFBA&index=52
+
+
+**Important Link for Machine learning Q&A**
+
+https://github.com/arafatm/edu_coursera_machine_learning_1_foundations#:~:text=2%20For%20a%20linear%20classifier,because%20an%20error%20has%20occurred
+
+https://www.analyticsvidhya.com/blog/2017/07/30-questions-to-test-a-data-scientist-on-linear-regression/
+
+https://www.analyticsvidhya.com/blog/2017/07/30-questions-test-data-scientist-natural-language-processing-solution-skilltest-nlp/
+
+https://www.analyticsvidhya.com/blog/2017/08/skilltest-deep-learning/
+
+https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-tree-based-models/
+
+https://www.datasciencecentral.com/profiles/blogs/25-questions-to-detect-fake-data-scientists
+
+https://data-flair.training/blogs/popular-data-science-interview-questions/
+
+https://www.analyticsvidhya.com/blog/2017/08/skilltest-deep-learning/
+
+https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-tree-based-models/
+
+https://www.edureka.co/blog/interview-questions/data-science-interview-questions/
+
+https://www.springboard.com/blog/machine-learning-interview-questions/
+
+https://www.digitalvidya.com/blog/machine-learning-interview-questions/
+
+https://www.analyticsvidhya.com/blog/2017/09/30-questions-test-k-nearest-neighbors-algorithm/
+
+https://www.analyticsvidhya.com/blog/2017/01/must-know-questions-deep-learning/
+
+https://www.analyticsvidhya.com/blog/2017/04/40-questions-test-data-scientist-deep-learning/
+
+https://www.analyticsvidhya.com/blog/2017/04/40-questions-test-data-scientist-machine-learning-solution-skillpower-machine-learning-datafest-2017/
+
+https://www.analyticsvidhya.com/blog/2018/05/deep-learning-faq/
+
+https://www.dezyre.com/article/100-data-science-interview-questions-and-answers-general-for-2018/184
+
+http://www.cambridge.org/features/economics/brooks/downloads/mcq/Chapter%205/ch05.htm
+
+https://www.analyticsvidhya.com/blog/2017/04/40-questions-on-time-series-solution-skillpower-time-series-datafest-2017/
+
+
+
