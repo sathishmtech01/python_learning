@@ -1,0 +1,5 @@
+2021-05-27 17:19:54,608 | activity_log | DEBUG | debug message
+2021-05-27 17:19:54,608 | activity_log | INFO | None | None | None | None | None | None | None | None
+2021-05-27 17:19:54,609 | activity_log | WARNING | warn message
+2021-05-27 17:19:54,609 | activity_log | ERROR | error message
+2021-05-27 17:19:54,609 | activity_log | CRITICAL | critical message
